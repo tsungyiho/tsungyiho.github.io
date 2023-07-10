@@ -98,15 +98,13 @@ pagination:
 
 collections:
   news:
-#    defaults:
-#      layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
     output: false
     permalink: /projects/:path/
 
-news_limit: 12
+news_source: https://docs.google.com/spreadsheets/d/e/2PACX-1vSP5G9heZn_N9EQzJyIU4EV_-9RZKJkN-8rwontGoJYi3MfYrbLbTKwnOA0Eo8SyLvrvuA4LDZHlZdr/pub?gid=502781067&single=true&output=csv
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -243,7 +241,7 @@ imagemagick:
     - ".png"
     - ".tiff"
   output_formats:
-    webp: "-quality 75%"
+    webp: "-quality 100%"
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams

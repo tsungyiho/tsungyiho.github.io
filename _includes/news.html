@@ -1,25 +1,43 @@
           
           <div class="news">
-            <h2>latest news</h2>
-            {% if site.news != blank -%} 
+            <h2>recent activities</h2>
             <div class="table-responsive">
-              <table class="table table-sm table-borderless">
-              {%- assign news = site.news | reverse -%} 
-              {% for item in news limit: site.news_limit %} 
-                <tr>
-                  <th scope="row">{{ item.date | date: "%m/%Y" }}</th>
-                  <td>
-                    {% if item.inline -%} 
-                      {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-                    {%- else -%} 
-                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-                    {%- endif %} 
-                  </td>
-                </tr>
-              {%- endfor %} 
+              <table class="table table-sm table-borderless" id="latest-news-csv">
               </table>
             </div>
-          {%- else -%} 
-            <p>No news so far...</p>
-          {%- endif %} 
           </div>
+
+          <script>
+		    function CSVtoArray(text) {
+		        var re_valid = /^\s*(?:'[^'\\]*(?:\\[\S\s][^'\\]*)*'|"[^"\\]*(?:\\[\S\s][^"\\]*)*"|[^,'"\s\\]*(?:\s+[^,'"\s\\]+)*)\s*(?:,\s*(?:'[^'\\]*(?:\\[\S\s][^'\\]*)*'|"[^"\\]*(?:\\[\S\s][^"\\]*)*"|[^,'"\s\\]*(?:\s+[^,'"\s\\]+)*)\s*)*$/;
+		        var re_value = /(?!\s*$)\s*(?:'([^'\\]*(?:\\[\S\s][^'\\]*)*)'|"([^"\\]*(?:\\[\S\s][^"\\]*)*)"|([^,'"\s\\]*(?:\s+[^,'"\s\\]+)*))\s*(?:,|$)/g;
+		        if (!re_valid.test(text)) return null;
+		        var a = [];
+		        text.replace(re_value,
+		            function(m0, m1, m2, m3) {
+		                if      (m1 !== undefined) a.push(m1.replace(/\\'/g, "'"));
+		                else if (m2 !== undefined) a.push(m2.replace(/\\"/g, '"'));
+		                else if (m3 !== undefined) a.push(m3);
+		                return '';
+		            });
+		        if (/,\s*$/.test(text)) a.push('');
+		        return a;
+		    };
+			let table = document.getElementById("latest-news-csv");
+			let url = "{{ site.news_source }}";
+			fetch(url).then(response => response.text()).then(data => {
+			    let rows = data.split("\n");
+			    for (let i = 0; i < rows.length; i++) {
+			      let cells = CSVtoArray(rows[i]);
+			      let row = table.insertRow();
+			      
+			      th = document.createElement('th');
+			      th.setAttribute("scope","row");
+			      th.innerText = cells[0];
+			      row.appendChild(th);
+			      
+			      cell = row.insertCell();
+			      cell.innerHTML = cells[1];
+			    }
+			  }).catch(error => {console.log(error);table.innerHTML="<p style=\"color: #bababa;\">Unable to fetch data right now. Please try again later.</p>"});
+          </script>

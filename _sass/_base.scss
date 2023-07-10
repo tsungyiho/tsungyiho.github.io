@@ -237,17 +237,6 @@ blockquote {
 
 
 // News
-.gdoc_news {
-  
-}
-.gdoc_news_frame {
-  border:none;
-  width: 100%;
-  height: 500px;
-  overflow: hidden;
-  position: relative;
-  top: -2em;
-}
 .news {
   margin-top: 1rem;
 }
@@ -257,12 +246,16 @@ blockquote {
   color: var(--global-text-color);
   padding-top: 0.1rem;
   padding-bottom: 0.3rem;
+  position: relative;
+  top: -0.15em;
 }
 
 .news table th {
   color: var(--global-text-color);
   padding-top: 0.1rem;
   padding-bottom: 0.3rem;
+  width: 4em;
+  display: table-cell;
 }
 
 
@@ -475,9 +468,9 @@ footer.sticky-bottom {
       font-size: 1.5rem;
     }
   }
-  .pub_title{
+  .pub_title {
+    color: var(--global-theme-color);
     margin: 1em 0;
-    color: #8a0000;
   }
   ol.bibliography {
     list-style: none;
