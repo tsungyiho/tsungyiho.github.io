@@ -11,14 +11,14 @@ order: 5
 <!-- _pages/publications.md -->
 <div class="publications">
 
-More information on the publications is available at <a href="https://scholar.google.com/citations?user=TRDUYkAAAAAJ&hl=en">Google Scholar</a>.
+Recent publications I have contributed to. More information on the publications is available at <a href="https://scholar.google.com/citations?user=TRDUYkAAAAAJ&hl=en">Google Scholar</a>.
 
-<h3 class="pub_title">referred journals</h3>
+<h2 class="pub_title">Journals</h2>
 {% bibliography -f papers -q @article[journal!=CoRR]* %}
 
-<h3 class="pub_title">referred conferences</h3>
+<h2 class="pub_title">Conferences</h2>
 {% bibliography -f papers -q @inproceedings %}
 
-<h3 class="pub_title">books</h3>
+<h2 class="pub_title">Books</h2>
 {% bibliography -f papers -q @book* %}
 </div>

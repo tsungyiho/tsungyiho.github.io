@@ -7,7 +7,7 @@ nav: true
 order: 2
 ---
 
-### Associate Editor
+## Associate Editor
 1.	ACM Journal on Emerging Technologies in Computing Systems **(JETC)** 2013~~Present
 2.	ACM Transactions on Design Automation on Electronic Systems **(TODAES)** 2016~~Present
 3.	ACM Transactions on Embedded Computing Systems **(TECS)** 2017~~Present
@@ -16,32 +16,32 @@ order: 2
 6.	Elsevier Integration: The VLSI Journal **(Integration)** 2016~~Present
 
 
-### Guest Editor
+## Guest Editor
 1.	IEEE Design & Test of Computers **(D&T)**
 2.	Elsevier Integration: The VLSI Journal **(Integration)**
 3.	IET Cyber-Physical Systems: Theory and Applications
 
 
-### Referee
+## Referee
 1.	IEEE Transactions on Circuit and System II **(TCASII)**
 2.	IEEE Transactions on Automation Science and Engineering **(TASE)**
 
 
-### General Chair
+## General Chair
 1.	IEEE Asian Hardware Oriented Security and Trust Symposium **(AsianHOST)** 2016
 2.	IEEE/ACM International Workshop on System Level Interconnect Prediction **(SLIP)** 2017
 3.	Synthesis and System Integration of Mixed Information Technologies **(SASIMI)** 2019
 
 
-### TPC Chair
+## TPC Chair
 1.	IEEE/ACM International Workshop on System Level Interconnect Prediction **(SLIP)** 2016
 2.	ACM/IEEE Asia and South Pacific Design Automation Conference **(ASP-DAC)** 2020
 
 
-### DLP Chair
+## DLP Chair
 1.	IEEE Council of EDA
 
-### TPC Member
+## TPC Member
 1.	ACM/IEEE Design Automation Conference **(DAC)** 2014~2016, 2020
 2.	ACM/IEEE Asia and South Pacific Design Automation Conference **(ASP-DAC)** 2012~2013, **(2014~2015, 2018 Track Chair)**
 3.	IEEE/ACM International Conference on Computer-Aided Design **(ICCAD)** 2012~2014, 2017-2019
@@ -66,44 +66,44 @@ order: 2
 22.	VLSI Design/CAD Symposium 2008~2017
 
 
-### Chapter Chair
+## Chapter Chair
 1.	IEEE Computer Society Tainan Chapter 2013, 2014, 2015
 2.	ACM SIGDA Taiwan Chapter 2015
 
 
-### Chapter Vice Chair
+## Chapter Vice Chair
 1.	ACM SIGDA Taiwan Chapter 2014
 
 
-### Secretary General
+## Secretary General
 1.	IEEE Taipei Section 2019-2020
 
 
-### Co-Chair
+## Co-Chair
 1.	ACM SIGDA Student Research Competition **(SRC)** 2014, 2015
 
 
-### Global Repre.
+## Global Repre.
 1.	IEEE International Symposium on Quality Electronic Design **(ISQED)** 2014
 
 
-### Publication Chair
+## Publication Chair
 1.	IEEE International SOC Conference **(SOCC)** 2011
 2.	IEEE/ACM International Workshop on System Level Interconnect Prediction **(SLIP)** 2012, 2013
 
 
-### Demo Chair
+## Demo Chair
 1.	VLSI Design/CAD Symposium 2010
 
 
-### Publicity Chair
+## Publicity Chair
 1.	International Computer Symposium 2010
 2.	IEEE/IFIP International Conference on Very Large Scale Integration **(VLSI-SoC)** 2015
 3.	IEEE/ACM International Workshop on System Level Interconnect Prediction **(SLIP)** 2015
 4.	IEEE International Conference on VLSI Design **(VLSI)** 2016
 
 
-### Session Chair
+## Session Chair
 1.	ACM/IEEE Asia and South Pacific Design Automation Conference **(ASP-DAC)** 2010, 2014
 2.	IEEE International SOC Conference **(SOCC)** 2011
 3.	IEEE/ACM International Conference on Computer-Aided Design **(ICCAD)** 2011, 2014, 2016, 2019

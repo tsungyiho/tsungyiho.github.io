@@ -7,7 +7,7 @@ nav: true
 order: 4
 ---
 
-### Keynote/Invited Conference Talks  
+## Keynote/Invited Conference Talks  
 1.  **“Top-Down Synthesis Methodology for Flow-Based Microfluidic Biochips”**
     IEEE International Symposium on Electronic Designs(ISED), Kolkata, India, Dec. 2012
 2.  **“Design Automation for Digital Microfluidic Biochips: From Fluidic-Level Toward Chip-Level”**
@@ -26,7 +26,7 @@ order: 4
     IEEE PrimeAsia, Kuala Lumpur, Malaysia, Nov. 2017
 
 
-### Tutorials
+## Tutorials
 1.  **“Digital Microfluidic Biochips: A Vision for Functional Diversity and More than Moore”**
     IEEE/ACM International Conference on Computer-Aided Designs(ICCAD), San Jose, CA, Nov. 2010
 2.  **“Digital Microfluidic Biochips: Functional Diversity, More than Moore, and Cyberphysical Systems”**
@@ -51,7 +51,7 @@ order: 4
     IEEE PrimeAsia, Kuala Lumpur, Malaysia, Oct. 2017
 
 
-### Special Sessions  
+## Special Sessions  
 1.  **“Emerging Topics in Physical Design”**
     IEEE International Midwest Symposium on Circuits and Systems(MWSCAS), Seoul, Korea, Aug. 2011
 2.  **“Digital and Optimization Methods for Microfluidic Biochips: A Vision for Functional Diversity and More than Moore”**
@@ -84,16 +84,16 @@ order: 4
     IEEE/ACM International Conference on Computer-Aided Designs(ICCAD), Westminister, CO, Nov. 2019
 
 
-### Dagstuhl Seminar  
+## Dagstuhl Seminar  
 1.  **“Design of Microfluidic Biochips: Connecting Algorithms and Foundations of Chip Design to Biochemistry and the Life Sciences”**, Germany, Aug. 2015
 2.  **“Emerging Hardware Techniques and EDA Methodologies for Neuromorphic Computing”**, Germany, Apr. 2019
 
 
-### NII Shonan Meeting  
+## NII Shonan Meeting  
 1.  **“Microfluidic Biochips: Bridging Biochemistry with Computer Science and Engineering”**, Japan, Mar. 2017
 
 
-### Invited Talks in Academic Institutes
+## Invited Talks in Academic Institutes
 1.  Kitakyushu University, Japan, September 13, 2009
 2.  Kyoto University, Japan, July 21, 2010
 3.  Duke University, US, February 10, 2011

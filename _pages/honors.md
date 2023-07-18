@@ -7,7 +7,7 @@ nav: true
 order: 3
 ---
 
-### honors and awards
+## Honors and Awards
 1.	ACM Distinguished Scientist, 2019
 2.	Outstanding Electrical Engineer Professor Award, Chinese Institute of Electrical Engineering, 2019
 3.	JSPS Invitation Fellowship, Japan Society for the Promotion of Science, Japan, 2019
@@ -40,7 +40,7 @@ order: 3
 30.	1st Place, CAD Programming Contest, Ministry of Education, Taiwan, 2002
 
 
-### best paper awards (Nomination)
+## Best Paper Awards (and Nomination)
 1.	Best Paper Award, Synthesis and System Integration of Mixed Information Technologies, 2016
 2.	Best Paper Award, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2015
 3.	Best Paper Award, IEEE VLSI Test Symposium, 2013
@@ -56,7 +56,7 @@ order: 3
 13.	Best Paper Nomination, ACM/IEEE Design Automation Conference, 2005
 
 
-### student awards (received by students under my supervision)
+## Student Awards (received by students under my supervision)
 1.	2nd Place, ACM TAU Timing Contest, US, 2018
 2.	2nd Place Thesis Award, Taiwan Institute of Electrical and Electronic Engineering, Taiwan, 2015
 3.	Best Thesis Award, Institute of Information and Computer Machinery, Taiwan, 2014

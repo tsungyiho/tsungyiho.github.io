@@ -4,46 +4,52 @@ layout: default
 
 <!-- about.html -->
       <div class="post">
-        <header class="post-header">
-          <div class="post-title">
-          <h1 class="post-title">
-              {% if site.title == "blank" -%}{{ site.first_name }} {{ site.middle_name }} <span class="font-weight-bold">{{ site.last_name }}</span>{%- else -%}{{ site.title }}{%- endif %}
-          </h1>
-          </div>
-        </header>
-
         <article>
+          <div id="profile" class="profile clearfix">
           {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- elsif page.profile.align == 'right' -%}right{%- else -%}center{%- endif -%}">
+          <div class="profile-photo float-{%- if page.profile.align == 'left' -%}left{%- elsif page.profile.align == 'right' -%}right{%- else -%}center{%- endif -%}">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
               {% include figure.html 
               path=profile_image_path 
-              class="img-fluid z-dept-1 rounded-circle"
+              class="img-fluid z-dept-1 rounded"
               alt=page.profile.image -%}
             {% endif -%}
-          <p class="desc">{{ page.subtitle }}</p>
-          {%- if page.social %}
-          <!-- Social -->
-          <div class="social">
-            <div class="contact-icons">
-            {% include social.html %}
-            </div>
-
-            <div class="contact-note">
-              {{ site.contact_note }}
-            </div>
-            
           </div>
-          {%- endif %}
+          <div class="profile-info">
+            <div class="post-title">
+              <h1 class="post-title">
+                {% if site.title == "blank" -%}{{ site.first_name }} {{ site.middle_name }} <span class="font-weight-bold">{{ site.last_name }}</span>{%- else -%}{{ site.title }}{%- endif %}
+              </h1>
+            </div>
+            <p class="desc">{{ page.subtitle }}</p>
+            {%- if page.social %}
+            <!-- Social -->
+            <div class="social">
+              {% include social.html %}
+              <div class="contact-note">
+                {{ site.contact_note }}
+              </div>
+            </div>
+            {%- endif %}
+            {%- if page.profile.email %}
+            <div class="contact">
+              <i class="fas fa-envelope"></i> {{ page.profile.email }}
+            </div>
+            {%- endif %}
+            {%- if page.profile.phone %}
+            <div class="contact">
+              <i class="fas fa-phone"></i> {{ page.profile.phone }}
+            </div>
+            {%- endif %}
             {%- if page.profile.address %}
-            <div class="address">
-              {{ page.profile.address }}
+            <div class="contact">
+              <i class="fas fa-map"></i> {{ page.profile.address }}
             </div>
             {%- endif %}
           </div>
           {%- endif %}
-
+          </div>
           <div class="clearfix description">
             {{ content }}
           </div>

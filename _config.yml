@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Tsung-Yi
 middle_name: 
 last_name: Ho
-email: 
+email: tyho@cse.cuhk.edu.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Tsung-Yi Ho received his Ph.D. in Electrical Engineering from National Taiwan University in 2005. His research interests include several areas of computing and emerging technologies, especially in design automation of microfluidic biochips.
 footer_text: 
@@ -51,7 +51,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-
+social_icon: false
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
@@ -68,8 +68,6 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: https://dblp.org/pid/63/4181.html # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
-
-contact_note: ""
 
 google_analytics: # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)

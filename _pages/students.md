@@ -7,7 +7,7 @@ nav: true
 order: 6
 ---
 
-## current students
+## Current Students
 - Hao Geng
 - Shui Jiang
 - Zaitang Li
@@ -20,7 +20,7 @@ order: 6
 - 邱靖豪 Ching-Hao Chiu
 - 李俊毅 Chun-Yi Lee
 
-## alumnus
+## Alumnus
 - 黃　興 Xing Huang
 - 小山翼 Koyama Tsubasa
 - 李濬安 Chun-An Lee

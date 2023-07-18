@@ -77,47 +77,61 @@ blockquote {
 }
 
 // Profile
-.profile {
-  width: 100%;
-  figure {
-    text-align: center;
-  }
+.profile-photo {
+  display: block;
+}
+.profile-info {
+  margin: 0 0 1rem;
+  padding: 0 0 0 1em;
+  width: 70%;
+  float: left;
   p.desc {
-    margin: 1em 0 0.5em;
-    text-align: center;
-  }
-  .address {
-    font-family: monospace;
-    font-size: 0.8em;
-    color: #666;
-    text-align: center;
-    margin-bottom: 0.36rem;
-    p {
-      display: inline-block;
-      margin: 0;
-    }
+    margin: 0.5rem 0 0;
   }
 }
 
 @media (min-width: 576px) {
-  .profile figure {
+  .profile-photo {
     width: 30%;
-    margin: 0 auto;
     display: block;
   }
 }
 @media (max-width: 575px) {
-  .profile {
+  .profile-photo {
+    width: 100%;
     margin-bottom: 1rem;
+    figure {
+      width: 90%;
+      margin: 0 auto;
+      display: block;
+    }
+  }
+  .profile-info {
+    width: 100%;
+    text-align: center;
   }
 }
 
 .description {
   text-align: justify;
-  position: relative;
-  z-index: 1;
+  margin: 0.5rem 0 0;
 }
 
+.contact {
+  font-family: monospace;
+}
+.post h2 {
+  color: var(--global-theme-color);
+  margin: 1.8rem 0 1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  display: table;
+  text-shadow: 3px 2px 12px rgba(204, 204, 204, 0.96);
+  padding: 4px 9px;
+  background: #f4f4f4;
+  border-radius: 0.3rem;
+  user-select: none;
+}
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
@@ -286,9 +300,8 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
   .contact-icons {
-    font-size: 2rem;
+    font-size: 1.5rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -302,6 +315,10 @@ blockquote {
         }
       }
     }
+  }
+  .contact-texts {
+    margin-bottom: 0.5rem;
+    font-weight: 400;
   }
   .contact-note {
     font-size: 0.8rem;
@@ -606,11 +623,7 @@ html.transition *:after {
 // Extra Markdown style (post Customization)
 .post{
   div.post-title{
-    display: table;
-    h1{
-      display: block;
-      float: left;
-    }
+    display: block;
     .alter-post-title{
       margin-left: 10px;
       margin-top: 4px;
@@ -644,11 +657,11 @@ html.transition *:after {
     }
   }
   .post-content{
-        blockquote {
-          border-left: 5px solid var(--global-theme-color);
-          padding: 8px;
-      }
-}
+    blockquote {
+      border-left: 5px solid var(--global-theme-color);
+      padding: 8px;
+    }
+  }
 }
 
 .post-tags {
