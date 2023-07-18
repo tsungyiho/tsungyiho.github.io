@@ -3,6 +3,13 @@
  ******************************************************************************/
 
 // Typography
+html {
+  background: url(../../assets/img/bg2.jpg) 0px 0px repeat fixed transparent;
+}
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
@@ -82,7 +89,6 @@ blockquote {
 }
 .profile-info {
   margin: 0 0 1rem;
-  padding: 0 0 0 1em;
   width: 70%;
   float: left;
   p.desc {
@@ -90,10 +96,17 @@ blockquote {
   }
 }
 
+.contact {
+  font-family: monospace;
+}
+
 @media (min-width: 576px) {
   .profile-photo {
     width: 30%;
     display: block;
+  }
+  .profile-info {
+    padding: 0 0 0 1em;
   }
 }
 @media (max-width: 575px) {
@@ -110,15 +123,14 @@ blockquote {
     width: 100%;
     text-align: center;
   }
+  .contact {
+    font-size: 0.865rem;
+  }
 }
 
 .description {
   text-align: justify;
   margin: 0.5rem 0 0;
-}
-
-.contact {
-  font-family: monospace;
 }
 .post h2 {
   color: var(--global-theme-color);
@@ -148,9 +160,8 @@ blockquote {
 // Navbar customization
 
 .navbar {
-  box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
+  box-shadow: 0 0 20px rgba(0,0,0,.05);
   opacity: 0.95;
 }
 .navbar .dropdown-menu {
@@ -317,7 +328,7 @@ blockquote {
     }
   }
   .contact-texts {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.44rem;
     font-weight: 400;
   }
   .contact-note {
@@ -345,10 +356,12 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
-  border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding: 0 0 3rem;
   font-size: 0.9rem;
+  text-align: center;
+  .container {
+    color: var(--global-footer-text-color);
+  }
 }
 
 

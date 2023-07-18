@@ -19,7 +19,7 @@ layout: default
           <div class="profile-info">
             <div class="post-title">
               <h1 class="post-title">
-                {% if site.title == "blank" -%}{{ site.first_name }} {{ site.middle_name }} <span class="font-weight-bold">{{ site.last_name }}</span>{%- else -%}{{ site.title }}{%- endif %}
+                {% if site.title == "blank" -%}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
               </h1>
             </div>
             <p class="desc">{{ page.subtitle }}</p>
