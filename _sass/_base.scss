@@ -4,7 +4,8 @@
 
 // Typography
 html {
-  background: url(../../assets/img/bg3.jpg) 0px 0px no-repeat fixed transparent;
+  background: url(../../assets/img/bg3.jpg) center center no-repeat fixed transparent;
+  background-size: cover;
 }
 body {
   max-width: 800px;

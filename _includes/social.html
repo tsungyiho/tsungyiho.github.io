@@ -1,7 +1,7 @@
             {%- if site.social_icon -%}
             <div class="contact-icons">
             {%- if site.scholar_userid -%}
-            <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+            <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
             {% endif %}
             {%- if site.dblp_url -%}
             <a href="{{ site.dblp_url }}" title="DBLP"><i class="ai ai-dblp"></i></a>
@@ -58,7 +58,7 @@
             {% else %}
             <div class="contact-texts">
             {%- if site.scholar_userid -%}
-            <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar">Google Scholar</a>
+            <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}&hl=en" title="Google Scholar">Google Scholar</a>
             {% endif %}
             {%- if site.dblp_url -%}
             / <a href="{{ site.dblp_url }}" title="DBLP">DBLP</a>
