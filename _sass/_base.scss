@@ -4,10 +4,11 @@
 
 // Typography
 html {
-  background: url(../../assets/img/bg2.jpg) 0px 0px repeat fixed transparent;
+  background: url(../../assets/img/bg3.jpg) 0px 0px no-repeat fixed transparent;
 }
 body {
   max-width: 800px;
+  padding: 0 .8em;
   margin: 0 auto;
 }
 
@@ -89,7 +90,7 @@ blockquote {
 }
 .profile-info {
   margin: 0 0 1rem;
-  width: 70%;
+  width: 69.5%;
   float: left;
   p.desc {
     margin: 0.5rem 0 0;
@@ -98,15 +99,32 @@ blockquote {
 
 .contact {
   font-family: monospace;
+  i {
+    color: #4b4b4b;
+    position: relative;
+    bottom: -0.1rem;
+    transition-property: 0.5s ease;
+    -moz-transition: 0.5s ease;
+    -ms-transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    transition: all 0.5s ease;
+  }
+}
+.contact:hover {
+  i {
+    color: var(--global-theme-color);
+  }
 }
 
 @media (min-width: 576px) {
   .profile-photo {
-    width: 30%;
+    width: 30.5%;
     display: block;
   }
   .profile-info {
-    padding: 0 0 0 1em;
+    padding: 0 0 0 1.4rem;
+    top: -0.5rem;
+    position: relative;
   }
 }
 @media (max-width: 575px) {
@@ -114,7 +132,7 @@ blockquote {
     width: 100%;
     margin-bottom: 1rem;
     figure {
-      width: 90%;
+      width: 70%;
       margin: 0 auto;
       display: block;
     }
@@ -124,7 +142,7 @@ blockquote {
     text-align: center;
   }
   .contact {
-    font-size: 0.865rem;
+    font-size: 0.83rem;
   }
 }
 
@@ -194,7 +212,7 @@ blockquote {
     color: var(--global-text-color);
   }
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--global-text-color-light);
     &:hover {
       color: var(--global-hover-color);
     }
@@ -285,6 +303,7 @@ blockquote {
 
 
 // Highlights
+
 .academic_services, .awards {
   margin-top: 1rem;
   display: inline-block;
@@ -308,6 +327,52 @@ blockquote {
   line-height: 1;
 }
 
+// Research Groups
+.research-text {
+  padding: 2px 5px;
+  display: inline-block;
+  margin-left: 5px;
+  border-radius: 12%;
+  font-family: monospace;
+  font-style: normal;
+  font-size: 0.7rem;
+  letter-spacing: 0.02rem;
+  position: relative;
+  bottom: 0.15rem;
+  user-select: none;
+  color: #595959;
+}
+.research-text-eda {
+  background: #fff0bb;
+}
+.research-text-eda::after {
+  content: "EDA";
+}
+.research-text-ml {
+  background: #bbf9ff;
+}
+.research-text-ml::after {
+  content: "ML";
+}
+.research-text-med {
+  background: #1ab7ff;
+}
+.research-text-med::after {
+  content: "MED";
+}
+.research-text-security {
+  background: #ffce9e;
+}
+.research-text-security::after {
+  content: "SECURITY";
+}
+.research-text-quantum {
+  background: #ffce9e;
+}
+.research-text-quantum::after {
+  content: "Quantum";
+}
+
 // Social (bottom)
 
 .social {
@@ -328,7 +393,7 @@ blockquote {
     }
   }
   .contact-texts {
-    margin-bottom: 0.44rem;
+    margin-bottom: 0.5rem;
     font-weight: 400;
   }
   .contact-note {

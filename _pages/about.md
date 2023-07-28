@@ -6,7 +6,7 @@ subtitle: "<strong>Professor</strong><br/><a href=\"https://www.cse.cuhk.edu.hk/
 profile:
   align: left
   image: about/avatar.jpg
-  email: tyho[at]cse.cuhk.edu.hk
+  email: tyho [at] cse.cuhk.edu.hk
   phone: (+852) 3943 8408
   address: Room 915, Ho Sin-Hang Engineering Building
 
