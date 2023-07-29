@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research_groups/
+permalink: /research-groups/
 title: research groups
 description: 
 nav: true
