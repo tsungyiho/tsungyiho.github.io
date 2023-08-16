@@ -4,7 +4,7 @@ permalink: /honors/
 title: honors
 description: 
 nav: true
-order: 3
+order: 2
 ---
 
 ## Honors and Awards

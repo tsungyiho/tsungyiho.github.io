@@ -4,7 +4,7 @@ permalink: /research-groups/
 title: research groups
 description: 
 nav: true
-order: 6
+order: 4
 ---
 
 ## Current Students
