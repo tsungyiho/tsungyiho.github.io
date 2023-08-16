@@ -11,6 +11,7 @@ order: 4
 ## Current Members
 
 <div class="research-group card-columns clearfix">
+    <!--New Member Start-->
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/default.png"></div>
         <div class="info">
@@ -19,11 +20,12 @@ order: 4
             <span class="period">2021 - <em>present</em></span>
             <span class="link">
                 <a href="#" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="#" title="Email"><i class="fa-solid fa-envelope"></i></a>
+                <a href="mailto:" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
-
+    <!--New Member End-->
+    <!--New Member Start-->
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/default.png"></div>
         <div class="info">
@@ -31,11 +33,12 @@ order: 4
             <span class="post">Position</span>
             <span class="period">2021 - <em>present</em></span>
             <span class="link">
-                <a href="#" title="Email"><i class="fa-solid fa-envelope"></i></a>
+                <a href="mailto:" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
-
+    <!--New Member End-->
+    <!--New Member Start-->
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/default.png"></div>
         <div class="info">
@@ -44,11 +47,12 @@ order: 4
             <span class="period">2022 - <em>present</em></span>
             <span class="link">
                 <a href="#" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="#" title="Email"><i class="fa-solid fa-envelope"></i></a>
+                <a href="mailto:" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
-
+    <!--New Member End-->
+    <!--New Member Start-->
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/default.png"></div>
         <div class="info">
@@ -57,11 +61,12 @@ order: 4
             <span class="period">2022 - <em>present</em></span>
             <span class="link">
                 <a href="#" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="#" title="Email"><i class="fa-solid fa-envelope"></i></a>
+                <a href="mailto:" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
-
+    <!--New Member End-->
+    <!--New Member Start-->
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/default.png"></div>
         <div class="info">
@@ -70,11 +75,12 @@ order: 4
             <span class="period">2022 - <em>present</em></span>
             <span class="link">
                 <a href="#" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-                <a href="#" title="Email"><i class="fa-solid fa-envelope"></i></a>
+                <a href="mailto:" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
-
+    <!--New Member End-->
+    <!--New Member Start-->
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/default.png"></div>
         <div class="info">
@@ -82,11 +88,12 @@ order: 4
             <span class="post">Position</span>
             <span class="period">2023 - <em>present</em></span>
             <span class="link">
-                <a href="#" title="Email"><i class="fa-solid fa-envelope"></i></a>
+                <a href="mailto:" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
-
+    <!--New Member End-->
+    <!--New Member Start-->
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/default.png"></div>
         <div class="info">
@@ -94,24 +101,12 @@ order: 4
             <span class="post">Position</span>
             <span class="period">2023 - <em>present</em></span>
             <span class="link">
-                <a href="#" title="Email"><i class="fa-solid fa-envelope"></i></a>
+                <a href="mailto:" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
-
-    <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/default.png"></div>
-        <div class="info">
-            <h4 class="name">First Last</h4>
-            <span class="post">Position</span>
-            <span class="period">2023 - <em>present</em></span>
-            <span class="link">
-                <a href="#" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-                <a href="#" title="Email"><i class="fa-solid fa-envelope"></i></a>
-            </span>
-        </div>
-    </div>
-
+    <!--New Member End-->
+    <!--New Member Start-->
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/default.png"></div>
         <div class="info">
@@ -120,11 +115,12 @@ order: 4
             <span class="period">2023 - <em>present</em></span>
             <span class="link">
                 <a href="#" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-                <a href="#" title="Email"><i class="fa-solid fa-envelope"></i></a>
+                <a href="mailto:" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
-
+    <!--New Member End-->
+    <!--New Member Start-->
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/default.png"></div>
         <div class="info">
@@ -133,11 +129,24 @@ order: 4
             <span class="period">2023 - <em>present</em></span>
             <span class="link">
                 <a href="#" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-                <a href="#" title="Email"><i class="fa-solid fa-envelope"></i></a>
+                <a href="mailto:" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
-
+    <div class="people card p-2">
+        <div class="photo"><img src="/assets/img/group/default.png"></div>
+        <div class="info">
+            <h4 class="name">First Last</h4>
+            <span class="post">Position</span>
+            <span class="period">2023 - <em>present</em></span>
+            <span class="link">
+                <a href="#" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="mailto:" title="Email"><i class="fa-solid fa-envelope"></i></a>
+            </span>
+        </div>
+    </div>
+    <!--New Member End-->
+    <!--New Member Start-->
     <div class="people card p-2">
         <div class="photo"><img class="card-img-top" src="/assets/img/group/lhsiung.jpg"></div>
         <div class="info">
@@ -152,5 +161,6 @@ order: 4
             </span>
         </div>
     </div>
+    <!--New Member End-->
 </div>
 
