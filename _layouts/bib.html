@@ -1,22 +1,12 @@
 ---
 ---
 <!-- _layouts/bib.html -->
-      <div class="row">
         <!-- Entry bib key -->
-        {% if page.url == "/" %}
-        <div id="{{entry.key}}" class="col-sm-9">
-        {%- elsif entry.patent %}
-        <div id="{{entry.key}}" class="col-sm-12">
-        {%- else %}
-        <div id="{{entry.key}}" class="col-sm-12">
-        {%- endif %}
         {% if entry.type == "thesis" -%}
           {{reference}}
         {%- else %}
-          <!-- Title -->
-          <div class="title">{{entry.title}}</div>
           <!-- Author -->
-          <div class="author">
+          <span class="author">
           {%- for author in entry.author_array -%}
             {%- assign author_is_self = false -%}
             {%- if site.scholar.last_name contains author.last %}
@@ -33,7 +23,7 @@
                 {%- endif -%}
               {%- endfor -%}
             {%- endif -%}
-            
+
             {%- if forloop.length == 1 -%}
               {%- if author_is_self %}
                 <em>{{author.first}} {{author.last}}</em>
@@ -42,31 +32,30 @@
               {%- endif -%}
             {%- else -%}
               {%- unless forloop.last -%}
-                {% if author_is_self %}
-                  <em>{{author.first}} {{author.last}}</em>,&nbsp;
-                {%- else -%}
-                  {% if coauthor_url -%}
-                    <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>,&nbsp;
-                  {%- else -%}
+                {% if author_is_self %}<em>{{author.first}} {{author.last}}</em>,&nbsp;{%- else -%}
+                  {% if coauthor_url -%}<a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>,&nbsp;{%- else -%}
                   {{author.first}} {{author.last}},&nbsp;
                   {%- endif -%}
                 {%- endif -%}
               {%- else -%}
                 {% if author_is_self -%}
-                and <em>{{author.first}} {{author.last}}</em>
+                and <em>{{author.first}} {{author.last}}</em>.
                 {% else -%}
                   {%- if coauthor_url -%}
-                  and <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
+                  and <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>.
                   {% else -%}
-                    and {{author.first}} {{author.last}}
+                    and {{author.first}} {{author.last}}.
                   {%- endif -%}
                 {%- endif -%}
               {%- endunless -%}
             {%- endif -%}
           {%- endfor %}
-          </div>
+          </span>
+          <!-- Title -->
+          <span class="title">“{{entry.title}}.”</span>
 
           <!-- Journal/Book title and date -->
+          <span class="venue">
           {% if entry.type == "article" -%}
             {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
           {%- elsif entry.type == "inproceedings" -%}
@@ -77,9 +66,10 @@
           {%- endif -%}
           {%- capture periodical -%}{{ entrytype }}{{ entrymonth }} ({{ entryyear }}) {%- endcapture -%}
 
-          <div class="periodical">
+          <span class="periodical">
             {{ periodical | strip }}
-          </div>
+          </span>
+          </span>
         {%- endif %}
         
           <!-- Links/Buttons -->
@@ -137,19 +127,3 @@
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
           </div>
-
-          {% if entry.abstract -%}
-          <!-- Hidden abstract block -->
-          <div class="abstract hidden">
-            <p>{{ entry.abstract }}</p>
-          </div>
-          {%- endif -%}
-
-          {% if entry.bibtex_show -%}
-          <!-- Hidden bibtex block -->
-          <div class="bibtex hidden">
-            {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
-          </div>
-          {%- endif %}
-        </div>
-      </div>

@@ -103,7 +103,8 @@ collections:
     output: false
     permalink: /projects/:path/
 
-news_source: https://docs.google.com/spreadsheets/d/e/2PACX-1vSP5G9heZn_N9EQzJyIU4EV_-9RZKJkN-8rwontGoJYi3MfYrbLbTKwnOA0Eo8SyLvrvuA4LDZHlZdr/pub?gid=502781067&single=true&output=csv
+news_source: https://docs.google.com/spreadsheets/d/e/2PACX-1vSP5G9heZn_N9EQzJyIU4EV_-9RZKJkN-8rwontGoJYi3MfYrbLbTKwnOA0Eo8SyLvrvuA4LDZHlZdr/pub?gid=502781067&single=true&output=tsv
+news_source_local: /assets/recent_events.tsv
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -131,6 +132,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - README.md
+  - LICENSE
+  - .gitignore
 keep_files:
   - CNAME
   - .nojekyll

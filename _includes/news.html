@@ -8,36 +8,32 @@
           </div>
 
           <script>
-		    function CSVtoArray(text) {
-		        var re_valid = /^\s*(?:'[^'\\]*(?:\\[\S\s][^'\\]*)*'|"[^"\\]*(?:\\[\S\s][^"\\]*)*"|[^,'"\s\\]*(?:\s+[^,'"\s\\]+)*)\s*(?:,\s*(?:'[^'\\]*(?:\\[\S\s][^'\\]*)*'|"[^"\\]*(?:\\[\S\s][^"\\]*)*"|[^,'"\s\\]*(?:\s+[^,'"\s\\]+)*)\s*)*$/;
-		        var re_value = /(?!\s*$)\s*(?:'([^'\\]*(?:\\[\S\s][^'\\]*)*)'|"([^"\\]*(?:\\[\S\s][^"\\]*)*)"|([^,'"\s\\]*(?:\s+[^,'"\s\\]+)*))\s*(?:,|$)/g;
-		        if (!re_valid.test(text)) return null;
-		        var a = [];
-		        text.replace(re_value,
-		            function(m0, m1, m2, m3) {
-		                if      (m1 !== undefined) a.push(m1.replace(/\\'/g, "'"));
-		                else if (m2 !== undefined) a.push(m2.replace(/\\"/g, '"'));
-		                else if (m3 !== undefined) a.push(m3);
-		                return '';
-		            });
-		        if (/,\s*$/.test(text)) a.push('');
-		        return a;
-		    };
+            function tsv2table(data){
+			  let rows = data.split("\n");
+			  for (let i = 0; i < rows.length; i++) {
+			    if (!rows[i].includes("\t")) throw new Error("Fetch Error.");
+			    let cells = rows[i].split("\t");
+			    let row = table.insertRow();
+
+			    th = document.createElement('th');
+			    th.setAttribute("scope","row");
+			    th.innerText = cells[0];
+			    row.appendChild(th);
+
+			    cell = row.insertCell();
+			    cell.innerHTML = cells[1];
+			  }
+			}
 			let table = document.getElementById("latest-news-csv");
-			let url = "{{ site.news_source }}";
-			fetch(url).then(response => response.text()).then(data => {
-			    let rows = data.split("\n");
-			    for (let i = 0; i < rows.length; i++) {
-			      let cells = CSVtoArray(rows[i]);
-			      let row = table.insertRow();
-			      
-			      th = document.createElement('th');
-			      th.setAttribute("scope","row");
-			      th.innerText = cells[0];
-			      row.appendChild(th);
-			      
-			      cell = row.insertCell();
-			      cell.innerHTML = cells[1];
-			    }
-			  }).catch(error => {console.log(error);table.innerHTML="<p style=\"color: #bababa;\">Unable to fetch data right now. Please try again later.</p>"});
+			fetch("{{ site.news_source }}").then(function(response){
+			if (!response.ok) throw new Error("Not 2xx response", {cause: response});
+			else {response.text().then(data => tsv2table(data));}}).catch(error => {
+			  console.log("Events not up-to-date.");
+			  document.getElementById("latest_news_loading").style.display = "none";
+			  fetch("{{ site.news_source_local }}").then(response => response.text()).then(data => tsv2table(data)).catch(error => {
+			    console.log(error);
+			    table.innerHTML="<p style=\"color: #bababa;\">Unable to fetch data right now. Please try again later.</p>"
+			  });
+			});
+
           </script>

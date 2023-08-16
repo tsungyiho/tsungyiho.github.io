@@ -282,28 +282,24 @@ blockquote {
 // News
 .news {
   margin-top: 1rem;
+  .table {
+    margin-bottom: 0;
+    td {
+      color: var(--global-text-color);
+      padding-top: 0.1rem;
+      padding-bottom: 0.3rem;
+    }
+    th {
+      color: var(--global-text-color);
+      padding-top: 0.1rem;
+      padding-bottom: 0.3rem;
+      width: 4em;
+      display: table-cell;
+    }
+  }
 }
-
-.news table td {
-  font-size: 1rem;
-  color: var(--global-text-color);
-  padding-top: 0.1rem;
-  padding-bottom: 0.3rem;
-  position: relative;
-  top: -0.15em;
-}
-
-.news table th {
-  color: var(--global-text-color);
-  padding-top: 0.1rem;
-  padding-bottom: 0.3rem;
-  width: 4em;
-  display: table-cell;
-}
-
 
 // Highlights
-
 .academic_services, .awards {
   margin-top: 1rem;
   display: inline-block;
@@ -374,7 +370,6 @@ blockquote {
 }
 
 // Social (bottom)
-
 .social {
   .contact-icons {
     font-size: 1.5rem;
@@ -431,7 +426,6 @@ footer.sticky-bottom {
 
 
 // Blog
-
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
@@ -492,7 +486,6 @@ footer.sticky-bottom {
 
 
 // Distill
-
 .distill {
   a:hover {
     border-bottom-color: var(--global-theme-color);
@@ -502,7 +495,6 @@ footer.sticky-bottom {
 
 
 // Projects
-
 .projects {
   a {
     text-decoration: none;
@@ -547,7 +539,6 @@ footer.sticky-bottom {
 
 
 // Publications, Patents
-
 .publications, .patents {
   margin-top: 1rem;
   h1 {
@@ -568,12 +559,15 @@ footer.sticky-bottom {
     margin: 1em 0;
   }
   ol.bibliography {
-    list-style: none;
     padding: 0;
     margin-top: 0;
+    counter-reset: list;
 
     li {
+      list-style: none;
+      position: relative;
       margin-bottom: 1rem;
+      margin-left: 3.6rem;
       .abbr {
         height: 2rem;
         margin-bottom: 0.5rem;
@@ -596,6 +590,9 @@ footer.sticky-bottom {
       }
       .title {
         font-weight: bolder;
+      }
+      .venue {
+        font-style: italic;
       }
       .author {
         a {
@@ -660,6 +657,33 @@ footer.sticky-bottom {
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
+    }
+  }
+  .journal {
+    li:before {
+      counter-increment: list;
+      content: "[J" counter(list, numeric) "] ";
+      position: absolute;
+      left: -3.5rem;
+      font-family: monospace;
+    }
+  }
+  .conference {
+    li:before {
+      counter-increment: list;
+      content: "[C" counter(list, numeric) "] ";
+      position: absolute;
+      left: -3.5rem;
+      font-family: monospace;
+    }
+  }
+  .book {
+    li:before {
+      counter-increment: list;
+      content: "[B" counter(list, numeric) "] ";
+      position: absolute;
+      left: -3.5rem;
+      font-family: monospace;
     }
   }
 }
