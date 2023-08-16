@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /honors/
-title: honors
+title: Honors
 description: 
+icon: <i class="fa-solid fa-award"></i>
 nav: true
 order: 2
 ---

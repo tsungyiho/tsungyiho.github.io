@@ -39,6 +39,10 @@ blockquote {
   font-size: 1.2rem;
 }
 
+.font-capital{
+  text-transform: uppercase;
+}
+
 // Math
 
 .equation {
@@ -324,6 +328,45 @@ blockquote {
 }
 
 // Research Groups
+.research-group {
+  .people {
+    padding: 0.4rem;
+    .photo {
+      width: 75%;
+      margin: 0 auto;
+      img {
+        width: 100%;
+        background-position: center center;
+        background-repeat: no-repeat;
+        border-radius: 0.2rem;
+        user-drag: none;
+        -webkit-user-drag: none;
+        user-select: none;
+      }
+    }
+
+    .info {
+      width: 100%;
+      margin: 0.8rem auto 0;
+      padding-left: 10px;
+      text-align: center;
+      font-size: 0.8rem;
+      .name {
+        font-weight: 600;
+        font-size: 1rem;
+        margin-bottom: 0.5rem;
+      }
+      .post, .period {
+        display: block;
+        font-weight: 200;
+      }
+      .link {
+        font-size: 1.2rem;
+      }
+    }
+  }
+}
+
 .research-text {
   padding: 2px 5px;
   display: inline-block;

@@ -25,15 +25,8 @@
 			  }
 			}
 			let table = document.getElementById("latest-news-csv");
-			fetch("{{ site.news_source }}").then(function(response){
-			if (!response.ok) throw new Error("Not 2xx response", {cause: response});
-			else {response.text().then(data => tsv2table(data));}}).catch(error => {
-			  console.log("Events not up-to-date.");
-			  document.getElementById("latest_news_loading").style.display = "none";
-			  fetch("{{ site.news_source_local }}").then(response => response.text()).then(data => tsv2table(data)).catch(error => {
-			    console.log(error);
-			    table.innerHTML="<p style=\"color: #bababa;\">Unable to fetch data right now. Please try again later.</p>"
-			  });
+			fetch("{{ site.news_source }}").then(response => response.text()).then(data => tsv2table(data)).catch(error => {
+			  console.log(error);
+			  table.innerHTML="<p style=\"color: #bababa;\">Unable to fetch data right now. Please try again later.</p>"
 			});
-
           </script>

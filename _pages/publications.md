@@ -1,10 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: 
-years: [2023, 2022, 2021, 2020, 2019]
-patentyears: [2022]
+title: Publications
+description: Publication retrieved from DBLP. Full publications is available at Google Scholar.
+icon: <i class="fa-solid fa-book"></i>
 nav: true
 order: 3
 ---

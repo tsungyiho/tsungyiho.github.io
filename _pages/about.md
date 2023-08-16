@@ -1,7 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
+icon: <i class="fa-solid fa-house"></i>
 subtitle: "<strong>Professor</strong><br/><a href=\"https://www.cse.cuhk.edu.hk/\">Department of Computer Science and Engineering</a><br/>The Chinese University of Hong Kong"
 profile:
   align: left

@@ -66,10 +66,11 @@ Check out your website locally at: [http://localhost:4000](http://localhost:4000
 
 
 ## Update and Maintenance
+
 ### I. Update Bio/Photo/Contact/Social Link
 Please check out [_pages/about.md](_pages/about.md).
 
-To update news, please update on this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1Q7DDGaYdTyG6OawIUabJyug-RrV-lVS28EP7rYRZM38/edit). Please also periodically sync your local files ([assets/recent_events.tsv](assets/recent_events.tsv)). 
+To update news, please update ([assets/recent_events.tsv](assets/recent_events.tsv)).
 
 ### II. Update Activities
 Please check out [_pages/activities.md](_pages/activities.md).
