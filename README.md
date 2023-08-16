@@ -9,14 +9,12 @@ The website is generated using Jekyll, and is hosted at [https://tsungyiho.githu
     + [Step 3: Install Jekyll and Bundler gems.](#step-3--install-jekyll-and-bundler-gems)
   * [II. Build the Website](#ii-build-the-website)
     + [Step 1: Build the site and make it available on a local server](#step-1--build-the-site-and-make-it-available-on-a-local-server)
-    + [Step 2: Browse the website: http://localhost:4000](#step-2--browse-the-website--http---localhost-4000)
+    + [Step 2: Browse the website](#step-2--browse-the-website)
 - [Update and Maintenance](#update-and-maintenance)
   * [I. Update Bio/Photo/Contact/Social Link](#i-update-bio-photo-contact-social-link)
-  * [II. Update Activities](#ii-update-activities)
-  * [III. Update Honors](#iii-update-honors)
-  * [IV. Update Talks](#iv-update-talks)
-  * [V. Update Publications](#v-update-publications)
-  * [VI. Update Research Group](#vi-update-research-group)
+  * [II. Update Honors](#ii-update-honors)
+  * [III. Update Publications](#iii-update-publications)
+  * [IV. Update Research Group](#iv-update-research-group)
 
 
 ## Build the Website Locally
@@ -77,4 +75,4 @@ Please check out [_pages/honors.md](_pages/honors.md).
 This is generated using bibtex retrieved from DBLP. Please update or replace [_bibliography/papers.bib](_bibliography/papers.bib) with the latest one [https://dblp.org/pid/63/4181.bib?param=0](https://dblp.org/pid/63/4181.bib?param=0).
 
 ### IV. Update Research Group
-Please check out [_pages/students.md](_pages/students.md).
+Please check out [_pages/research-group.md](_pages/research-group.md).

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research-groups/
+permalink: /research-group/
 title: Research Group
 description: 
 icon: <i class="fa-solid fa-user-group"></i>
