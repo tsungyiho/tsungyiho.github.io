@@ -64,25 +64,17 @@ bundle exec jekyll serve
 #### Step 2: Browse the website
 Check out your website locally at: [http://localhost:4000](http://localhost:4000).
 
-
 ## Update and Maintenance
-
 ### I. Update Bio/Photo/Contact/Social Link
 Please check out [_pages/about.md](_pages/about.md).
 
 To update news, please update ([assets/recent_events.tsv](assets/recent_events.tsv)).
 
-### II. Update Activities
-Please check out [_pages/activities.md](_pages/activities.md).
-
-### III. Update Honors
+### II. Update Honors
 Please check out [_pages/honors.md](_pages/honors.md).
 
-### IV. Update Talks
-Please check out [_pages/talks.md](_pages/talks.md).
-
-### V. Update Publications
+### III. Update Publications
 This is generated using bibtex retrieved from DBLP. Please update or replace [_bibliography/papers.bib](_bibliography/papers.bib) with the latest one [https://dblp.org/pid/63/4181.bib?param=0](https://dblp.org/pid/63/4181.bib?param=0).
 
-### VI. Update Research Group
+### IV. Update Research Group
 Please check out [_pages/students.md](_pages/students.md).
