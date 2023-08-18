@@ -26,6 +26,18 @@ order: 4
             </span>
         </div>
     </div>
+    
+    <div class="people card p-2">
+        <div class="photo"><img src="/assets/img/group/shui_jiang.jpg" alt="Shui Jiang - Photo"></div>
+        <div class="info">
+            <h4 class="name">Shui Jiang</h4>
+            <span class="post">PhD student</span>
+            <span class="period">2022 - <em>present</em></span>
+            <span class="link">
+                <a href="mailto:sjiang22@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+            </span>
+        </div>
+    </div>
 
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/zaitang_li.jpg" alt="Zaitang Li - Photo"></div>
