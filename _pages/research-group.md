@@ -68,7 +68,7 @@ order: 4
     </div>
 
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/siyuan_liang.jpg" alt="Siyuan Liang"></div>
+        <div class="photo"><img src="/assets/img/group/siyuan_liang.jpg" alt="Siyuan Liang - Photo"></div>
         <div class="info">
             <h4 class="name">Siyuan Liang</h4>
             <span class="post">PhD student</span>
@@ -82,7 +82,7 @@ order: 4
     </div>
 
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/xiaomeng_hu.png" alt="Xiaomeng Hu"></div>
+        <div class="photo"><img src="/assets/img/group/xiaomeng_hu.png" alt="Xiaomeng Hu - Photo"></div>
         <div class="info">
             <h4 class="name">Xiaomeng Hu</h4>
             <span class="post">PhD student</span>
@@ -97,7 +97,7 @@ order: 4
     </div>
 
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/shanyi_li.jpg" alt="Shanyi Li"></div>
+        <div class="photo"><img src="/assets/img/group/shanyi_li.jpg" alt="Shanyi Li - Photo"></div>
         <div class="info">
             <h4 class="name">Shanyi Li</h4>
             <span class="post">PhD student</span>
@@ -109,7 +109,19 @@ order: 4
     </div>
 
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/barry_xiong.jpg" alt="Chen (Barry) Xiong"></div>
+        <div class="photo"><img src="/assets/img/group/zhiyuan_he.jpg" alt="Zhiyuan He - Photo"></div>
+        <div class="info">
+            <h4 class="name">Zhiyuan He</h4>
+            <span class="post">PhD student</span>
+            <span class="period">2023 - <em>present</em></span>
+            <span class="link">
+                <a href="mailto:zyhe@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+            </span>
+        </div>
+    </div>
+
+    <div class="people card p-2">
+        <div class="photo"><img src="/assets/img/group/barry_xiong.jpg" alt="Chen (Barry) Xiong - Photo"></div>
         <div class="info">
             <h4 class="name">Chen (Barry) Xiong</h4>
             <span class="post">PhD student</span>
