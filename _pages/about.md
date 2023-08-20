@@ -32,4 +32,4 @@ Tsung-Yi Ho received his Ph.D. in Electrical Engineering from National Taiwan Un
    - Quantum Computing
 
 ## Prospective Students
-I am looking for motivated students who ... If this sounds like you, please consider applying to the CUHK PhD program.
+I am looking for motivated students who have strong algorithmic design and problem solving skills, experienced in ICPC would be a plus. If you are interested, please email me directly.
