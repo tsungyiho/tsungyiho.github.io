@@ -67,6 +67,13 @@ Check out your website locally at: [http://localhost:4000](http://localhost:4000
 Please check out [_pages/about.md](_pages/about.md).
 
 To update news, please update ([assets/recent_events.tsv](assets/recent_events.tsv)).
+Please note that the **separation** between DATE and NEWS is using **`tab`**, not **`space`**. That is, `recent_events.tsv` should follow the format:
+```
+DATE NEWS1
+DATE NEWS2
+DATE NEWS3
+DATE NEWS4
+```
 
 ### II. Update Honors
 Please check out [_pages/honors.md](_pages/honors.md).
