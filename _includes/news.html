@@ -8,10 +8,14 @@
           </div>
 
           <script>
+          	function isEmptyOrSpaces(str){
+              return str === null || str.match(/^ *$/) !== null;
+            }
             function tsv2table(data){
 			  let rows = data.split("\n");
 			  for (let i = 0; i < rows.length; i++) {
-			    if (!rows[i].includes("\t")) throw new Error("Fetch Error.");
+			    if (isEmptyOrSpaces(rows[i])) continue;
+			    else if (!rows[i].includes("\t")) throw new Error("Fetch Error.");
 			    let cells = rows[i].split("\t");
 			    let row = table.insertRow();
 
