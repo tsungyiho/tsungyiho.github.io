@@ -166,6 +166,14 @@ blockquote {
   border-radius: 0.3rem;
   user-select: none;
 }
+.post h3 {
+  color: var(--global-theme-color);
+  margin: 1.8rem 0 1rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  display: table;
+  padding: 4px 9px;
+}
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
@@ -329,7 +337,11 @@ blockquote {
 
 // Research Groups
 .research-group {
+  margin-bottom: 1.5rem; 
   .people {
+    width: 32%;
+    float: left;
+    margin-right: 2%;
     padding: 0.4rem;
     .photo {
       width: 75%;
@@ -338,7 +350,7 @@ blockquote {
         width: 100%;
         background-position: center center;
         background-repeat: no-repeat;
-        border-radius: 50%;
+        border-radius: 10%;
         user-drag: none;
         -webkit-user-drag: none;
         user-select: none;
@@ -363,6 +375,23 @@ blockquote {
       .link {
         font-size: 1.2rem;
       }
+    }
+  }
+
+  .people:nth-child(3n) {
+    margin-right: 0;
+  }
+}
+
+
+@media (max-width: 575px) {
+  .research-group {
+      width: 80%;
+      margin: 0 auto;
+    .people {
+      width: 100%;
+      margin-bottom: 1em;
+      padding: 0.4rem;
     }
   }
 }

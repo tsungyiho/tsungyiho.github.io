@@ -9,9 +9,8 @@ order: 4
 ---
 
 ## Current Members
-
-<div class="research-group card-columns clearfix">
-
+### PhD Student (2021~)
+<div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen Zhuang - Photo"></div>
         <div class="info">
@@ -26,7 +25,10 @@ order: 4
             </span>
         </div>
     </div>
-    
+</div>
+
+### PhD Student (2022~)
+<div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/shui_jiang.jpg" alt="Shui Jiang - Photo"></div>
         <div class="info">
@@ -38,7 +40,6 @@ order: 4
             </span>
         </div>
     </div>
-
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/zaitang_li.jpg" alt="Zaitang Li - Photo"></div>
         <div class="info">
@@ -53,7 +54,6 @@ order: 4
             </span>
         </div>
     </div>
-
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/rongliang_fu.jpg" alt="Rongliang Fu - Photo"></div>
         <div class="info">
@@ -66,7 +66,9 @@ order: 4
             </span>
         </div>
     </div>
+</div>
 
+<div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/siyuan_liang.jpg" alt="Siyuan Liang - Photo"></div>
         <div class="info">
@@ -80,7 +82,10 @@ order: 4
             </span>
         </div>
     </div>
+</div>
 
+### PhD Student (2023~)
+<div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/xiaomeng_hu.png" alt="Xiaomeng Hu - Photo"></div>
         <div class="info">
@@ -95,7 +100,6 @@ order: 4
             </span>
         </div>
     </div>
-
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/shanyi_li.jpg" alt="Shanyi Li - Photo"></div>
         <div class="info">
@@ -107,7 +111,6 @@ order: 4
             </span>
         </div>
     </div>
-
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/zhiyuan_he.jpg" alt="Zhiyuan He - Photo"></div>
         <div class="info">
@@ -119,7 +122,10 @@ order: 4
             </span>
         </div>
     </div>
+</div>
 
+### PhD Student (2024~)
+<div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/barry_xiong.jpg" alt="Chen (Barry) Xiong - Photo"></div>
         <div class="info">
@@ -131,7 +137,10 @@ order: 4
             </span>
         </div>
     </div>
+</div>
 
+### Research Assistant
+<div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/default.png" alt="Sheng-Yen Chou"></div>
         <div class="info">
@@ -145,7 +154,6 @@ order: 4
             </span>
         </div>
     </div>
-
     <div class="people card p-2">
         <div class="photo"><img class="card-img-top" src="/assets/img/group/lei_hsiung.jpg" alt="Lei Hsiung"></div>
         <div class="info">
@@ -160,6 +168,5 @@ order: 4
             </span>
         </div>
     </div>
-
 </div>
 
