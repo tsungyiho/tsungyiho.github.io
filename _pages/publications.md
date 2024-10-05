@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publication retrieved from DBLP. Full publications is available at Google Scholar.
+description: Publication retrieved from DBLP. Full publications are available at Google Scholar.
 icon: <i class="fa-solid fa-book"></i>
 nav: true
 order: 3

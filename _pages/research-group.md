@@ -142,11 +142,25 @@ order: 4
 ### Research Assistant
 <div class="research-group clearfix">
     <div class="people card p-2">
+        <div class="photo"><img src="/assets/img/group/yung-chen_tang.jpg" alt="Yung-Chen Tang"></div>
+        <div class="info">
+            <h4 class="name">Yung-Chen Tang</h4>
+            <span class="post">Research Assistant</span>
+            <span class="period">2023 - <em>present</em></span>
+            <span class="link">
+                <a href="https://sites.google.com/view/yungchentang" title="Homepage"><i class="fa-solid fa-house"></i></a>
+                <a href="https://scholar.google.com/citations?user=0jx-9esAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+                <a href="https://www.linkedin.com/in/yc-tang" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="mailto:yctang@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+            </span>
+        </div>
+    </div>
+    <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/default.png" alt="Sheng-Yen Chou"></div>
         <div class="info">
             <h4 class="name">Sheng-Yen Chou</h4>
             <span class="post">Research Assistant</span>
-            <span class="period">2022 - <em>present</em></span>
+            <span class="period">2022 - 2024</span>
             <span class="link">
                 <a href="https://frankccccc.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="https://scholar.google.com/citations?user=y4L5ImMAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
