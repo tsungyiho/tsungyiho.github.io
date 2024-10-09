@@ -12,9 +12,9 @@ order: 4
 ### PhD Student (2021~)
 <div class="research-group clearfix">
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen Zhuang - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen ZHUANG - Photo"></div>
         <div class="info">
-            <h4 class="name">Zhen Zhuang</h4>
+            <h4 class="name">Zhen ZHUANG</h4>
             <span class="post">PhD Candidate</span>
             <span class="period">2021 - <em>present</em></span>
             <span class="link">
@@ -30,9 +30,9 @@ order: 4
 ### PhD Student (2022~)
 <div class="research-group clearfix">
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/shui_jiang.jpg" alt="Shui Jiang - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/shui_jiang.jpg" alt="Shui JIANG - Photo"></div>
         <div class="info">
-            <h4 class="name">Shui Jiang</h4>
+            <h4 class="name">Shui JIANG</h4>
             <span class="post">PhD student</span>
             <span class="period">2022 - <em>present</em></span>
             <span class="link">
@@ -41,9 +41,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/zaitang_li.jpg" alt="Zaitang Li - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/zaitang_li.jpg" alt="Zaitang LI - Photo"></div>
         <div class="info">
-            <h4 class="name">Zaitang Li</h4>
+            <h4 class="name">Zaitang LI</h4>
             <span class="post">PhD student</span>
             <span class="period">2022 - <em>present</em></span>
             <span class="link">
@@ -55,9 +55,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/rongliang_fu.jpg" alt="Rongliang Fu - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/rongliang_fu.jpg" alt="Rongliang FU - Photo"></div>
         <div class="info">
-            <h4 class="name">Rongliang Fu</h4>
+            <h4 class="name">Rongliang FU</h4>
             <span class="post">PhD student</span>
             <span class="period">2022 - <em>present</em></span>
             <span class="link">
@@ -70,9 +70,9 @@ order: 4
 
 <div class="research-group clearfix">
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/siyuan_liang.jpg" alt="Siyuan Liang - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/siyuan_liang.jpg" alt="Siyuan LIANG - Photo"></div>
         <div class="info">
-            <h4 class="name">Siyuan Liang</h4>
+            <h4 class="name">Siyuan LIANG</h4>
             <span class="post">PhD student</span>
             <span class="period">2022 - <em>present</em></span>
             <span class="link">
@@ -87,13 +87,13 @@ order: 4
 ### PhD Student (2023~)
 <div class="research-group clearfix">
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/xiaomeng_hu.png" alt="Xiaomeng Hu - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/xiaomeng_hu.png" alt="Xiaomeng HU - Photo"></div>
         <div class="info">
-            <h4 class="name">Xiaomeng Hu</h4>
+            <h4 class="name">Xiaomeng HU</h4>
             <span class="post">PhD student</span>
             <span class="period">2023 - <em>present</em></span>
             <span class="link">
-                <a href="https://gregxmhu.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
+                <a href="https://githubshuoren.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="https://scholar.google.com/citations?user=u6pbsnkAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
                 <a href="https://hk.linkedin.com/in/xiaomeng-hu-8824b3286" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
                 <a href="mailto:xmhu23@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
@@ -101,9 +101,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/shanyi_li.jpg" alt="Shanyi Li - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/shanyi_li.jpg" alt="Shanyi LI - Photo"></div>
         <div class="info">
-            <h4 class="name">Shanyi Li</h4>
+            <h4 class="name">Shanyi LI</h4>
             <span class="post">PhD student</span>
             <span class="period">2023 - <em>present</em></span>
             <span class="link">
@@ -112,9 +112,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/zhiyuan_he.jpg" alt="Zhiyuan He - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/zhiyuan_he.jpg" alt="Zhiyuan HE - Photo"></div>
         <div class="info">
-            <h4 class="name">Zhiyuan He</h4>
+            <h4 class="name">Zhiyuan HE</h4>
             <span class="post">PhD student</span>
             <span class="period">2023 - <em>present</em></span>
             <span class="link">
@@ -127,9 +127,33 @@ order: 4
 ### PhD Student (2024~)
 <div class="research-group clearfix">
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/barry_xiong.jpg" alt="Chen (Barry) Xiong - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/shuo_ren.jpg" alt="Shuo REN - Photo"></div>
         <div class="info">
-            <h4 class="name">Chen (Barry) Xiong</h4>
+            <h4 class="name">Shuo REN</h4>
+            <span class="post">PhD student</span>
+            <span class="period">2024 - <em>present</em></span>
+            <span class="link">
+                <a href="https://shenlibo1999.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
+                <a href="mailto:sren@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+            </span>
+        </div>
+    </div>
+    <div class="people card p-2">
+        <div class="photo"><img src="/assets/img/group/libo_shen.jpg" alt="Libo SHEN - Photo"></div>
+        <div class="info">
+            <h4 class="name">Libo SHEN</h4>
+            <span class="post">PhD student</span>
+            <span class="period">2024 - <em>present</em></span>
+            <span class="link">
+                <a href="https://shenlibo1999.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
+                <a href="mailto:lbshen24@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+            </span>
+        </div>
+    </div>
+    <div class="people card p-2">
+        <div class="photo"><img src="/assets/img/group/barry_xiong.jpg" alt="Chen (Barry) XIONG - Photo"></div>
+        <div class="info">
+            <h4 class="name">Chen (Barry) XIONG</h4>
             <span class="post">PhD student</span>
             <span class="period">2024 - <em>present</em></span>
             <span class="link">
@@ -142,9 +166,9 @@ order: 4
 ### Research Assistant
 <div class="research-group clearfix">
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/yung-chen_tang.jpg" alt="Yung-Chen Tang"></div>
+        <div class="photo"><img src="/assets/img/group/yung-chen_tang.jpg" alt="Yung-Chen TANG"></div>
         <div class="info">
-            <h4 class="name">Yung-Chen Tang</h4>
+            <h4 class="name">Yung-Chen TANG</h4>
             <span class="post">Research Assistant</span>
             <span class="period">2023 - <em>present</em></span>
             <span class="link">
@@ -156,9 +180,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/default.png" alt="Sheng-Yen Chou"></div>
+        <div class="photo"><img src="/assets/img/group/default.png" alt="Sheng-Yen CHOU"></div>
         <div class="info">
-            <h4 class="name">Sheng-Yen Chou</h4>
+            <h4 class="name">Sheng-Yen CHOU</h4>
             <span class="post">Research Assistant</span>
             <span class="period">2022 - 2024</span>
             <span class="link">
@@ -169,9 +193,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img class="card-img-top" src="/assets/img/group/lei_hsiung.jpg" alt="Lei Hsiung"></div>
+        <div class="photo"><img class="card-img-top" src="/assets/img/group/lei_hsiung.jpg" alt="Lei HSIUNG"></div>
         <div class="info">
-            <h4 class="name">Lei Hsiung</h4>
+            <h4 class="name">Lei HSIUNG</h4>
             <span class="post">Research Assistant</span>
             <span class="period">2023</span>
             <span class="link">
