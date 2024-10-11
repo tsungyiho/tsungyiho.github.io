@@ -93,7 +93,7 @@ order: 4
             <span class="post">PhD student</span>
             <span class="period">2023 - <em>present</em></span>
             <span class="link">
-                <a href="https://githubshuoren.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
+                <a href="https://gregxmhu.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="https://scholar.google.com/citations?user=u6pbsnkAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
                 <a href="https://hk.linkedin.com/in/xiaomeng-hu-8824b3286" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
                 <a href="mailto:xmhu23@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
@@ -133,7 +133,7 @@ order: 4
             <span class="post">PhD student</span>
             <span class="period">2024 - <em>present</em></span>
             <span class="link">
-                <a href="https://shenlibo1999.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
+                <a href="https://githubshuoren.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:sren@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
