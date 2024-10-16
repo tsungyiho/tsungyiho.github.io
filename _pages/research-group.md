@@ -151,6 +151,19 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
+        <div class="photo"><img src="/assets/img/group/chen_jiang.jpg" alt="Chen JIANG - Photo"></div>
+        <div class="info">
+            <h4 class="name">Chen JIANG</h4>
+            <span class="post">PhD student</span>
+            <span class="period">2024 - <em>present</em></span>
+            <span class="link">
+                <a href="mailto:1155229121@link.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+            </span>
+        </div>
+    </div>
+</div>
+<div class="research-group clearfix">
+    <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/barry_xiong.jpg" alt="Chen (Barry) XIONG - Photo"></div>
         <div class="info">
             <h4 class="name">Chen (Barry) XIONG</h4>
