@@ -9,7 +9,7 @@ profile:
   image: about/avatar.jpg
   email: tyho [at] cse.cuhk.edu.hk
   phone: (+852) 3943 8408
-  address: Room 919, Ho Sin-Hang Engineering Building
+  address: Room 908, Ho Sin-Hang Engineering Building
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
