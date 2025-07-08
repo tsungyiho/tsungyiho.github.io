@@ -8,7 +8,9 @@ nav: true
 order: 4
 ---
 
-## Current Members
+## IDEA GROUP
+### PostDoc
+
 ### PhD Student (2021~)
 <div class="research-group clearfix">
     <div class="people card p-2">
