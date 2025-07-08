@@ -1,19 +1,20 @@
 ---
 layout: page
 permalink: /research-group/
-title: IDEA LAB
+title: Research Group
 description: 
 icon: <span class="idea-icon"></span>
 nav: true
 order: 4
 ---
-
+## <span class="idea-icon"></span> IDEA LAB
+Intelligent Design Automation
 
 <div class="group-photo text-center mb-4">
     <img src="/assets/img/group/group photo.jpeg" alt="IDEA Group Photo" class="img-fluid rounded">
 </div>
 
-## GROUP MEMBERS
+## LAB MEMBERS
 
 ### Postdoctoral
 <div class="research-group clearfix">
@@ -232,7 +233,7 @@ order: 4
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/Wang_chenhan.jpg" alt="Chenhan WANG - Photo"></div>
         <div class="info">
-            <h4 class="name">Chenhan WANG</h4>
+            <h4 class="name">Chenghan WANG</h4>
             <span class="post">PhD student</span>
             <span class="period">2025 - </span>
             <span class="link">
