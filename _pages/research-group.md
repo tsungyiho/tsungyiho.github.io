@@ -9,14 +9,14 @@ order: 4
 ---
 
 ## IDEA GROUP
-### PostDoc
+### Post Doc
 <div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen ZHUANG - Photo"></div>
         <div class="info">
             <h4 class="name">Zhen ZHUANG</h4>
-            <span class="post">PhD Candidate</span>
-            <span class="period">2021 - <em>present</em></span>
+            <span class="post">Post Doc</span>
+            <span class="period">2021 - </span>
             <span class="link">
                 <a href="https://zzhuang95.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="https://scholar.google.com/citations?user=B5ekYO8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
@@ -34,7 +34,7 @@ order: 4
         <div class="info">
             <h4 class="name">Shui JIANG</h4>
             <span class="post">PhD student</span>
-            <span class="period">2022 - <em>present</em></span>
+            <span class="period">2022 - </span>
             <span class="link">
                 <a href="mailto:sjiang22@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
@@ -45,7 +45,7 @@ order: 4
         <div class="info">
             <h4 class="name">Zaitang LI</h4>
             <span class="post">PhD student</span>
-            <span class="period">2022 - <em>present</em></span>
+            <span class="period">2022 - </span>
             <span class="link">
                 <a href="https://lizaitang.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="https://scholar.google.com/citations?user=nPGJNbgAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
@@ -59,7 +59,7 @@ order: 4
         <div class="info">
             <h4 class="name">Rongliang FU</h4>
             <span class="post">PhD student</span>
-            <span class="period">2022 - <em>present</em></span>
+            <span class="period">2022 - </span>
             <span class="link">
                 <a href="https://flians.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:rlfu@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
@@ -74,7 +74,7 @@ order: 4
         <div class="info">
             <h4 class="name">Siyuan LIANG</h4>
             <span class="post">PhD student</span>
-            <span class="period">2022 - <em>present</em></span>
+            <span class="period">2022 - </span>
             <span class="link">
                 <a href="https://syliang1999.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="https://scholar.google.com/citations?user=9Xk3i9AAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
@@ -90,7 +90,7 @@ order: 4
         <div class="info">
             <h4 class="name">Xiaomeng HU</h4>
             <span class="post">PhD student</span>
-            <span class="period">2023 - <em>present</em></span>
+            <span class="period">2023 - </span>
             <span class="link">
                 <a href="https://gregxmhu.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="https://scholar.google.com/citations?user=u6pbsnkAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
@@ -104,7 +104,7 @@ order: 4
         <div class="info">
             <h4 class="name">Shanyi LI</h4>
             <span class="post">PhD student</span>
-            <span class="period">2023 - <em>present</em></span>
+            <span class="period">2023 - </span>
             <span class="link">
                 <a href="mailto:1155209925@link.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
@@ -115,7 +115,7 @@ order: 4
         <div class="info">
             <h4 class="name">Zhiyuan HE</h4>
             <span class="post">PhD student</span>
-            <span class="period">2023 - <em>present</em></span>
+            <span class="period">2023 - </span>
             <span class="link">
                 <a href="mailto:zyhe@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
@@ -128,7 +128,7 @@ order: 4
         <div class="info">
             <h4 class="name">Chen (Barry) XIONG</h4>
             <span class="post">PhD student</span>
-            <span class="period">2024 - <em>present</em></span>
+            <span class="period">2024 - </span>
             <span class="link">
                 <a href="mailto:bxiongresearch1@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
@@ -141,7 +141,7 @@ order: 4
         <div class="info">
             <h4 class="name">Shuo REN</h4>
             <span class="post">PhD student</span>
-            <span class="period">2024 - <em>present</em></span>
+            <span class="period">2024 - </span>
             <span class="link">
                 <a href="https://githubshuoren.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:sren@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
@@ -153,7 +153,7 @@ order: 4
         <div class="info">
             <h4 class="name">Libo SHEN</h4>
             <span class="post">PhD student</span>
-            <span class="period">2024 - <em>present</em></span>
+            <span class="period">2024 - </span>
             <span class="link">
                 <a href="https://shenlibo1999.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:lbshen24@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
@@ -165,7 +165,7 @@ order: 4
         <div class="info">
             <h4 class="name">Chen JIANG</h4>
             <span class="post">PhD student</span>
-            <span class="period">2024 - <em>present</em></span>
+            <span class="period">2024 - </span>
             <span class="link">
                 <a href="mailto:1155229121@link.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
@@ -174,14 +174,15 @@ order: 4
 </div>
 
 
-### Research Assistant
+### Alumni
+Yung-Chen TANG (Research Assistant 2025) <a href="mailto:yctang@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
 <div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/yung-chen_tang.jpg" alt="Yung-Chen TANG"></div>
         <div class="info">
             <h4 class="name">Yung-Chen TANG</h4>
             <span class="post">Research Assistant</span>
-            <span class="period">2023 - <em>present</em></span>
+            <span class="period">2023 - </span>
             <span class="link">
                 <a href="https://sites.google.com/view/yungchentang" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="https://scholar.google.com/citations?user=0jx-9esAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
