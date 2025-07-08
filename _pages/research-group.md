@@ -8,7 +8,7 @@ nav: true
 order: 4
 ---
 ## <span class="idea-icon"></span> IDEA LAB
-<strong>I</strong>ntelligent <strong>De</strong>esign <strong>A</strong>utomation
+<strong>I</strong>ntelligent <strong>De</strong>sign <strong>A</strong>utomation
 
 <div class="group-photo text-center mb-4">
     <img src="/assets/img/group/group photo.jpeg" alt="IDEA Group Photo" class="img-fluid rounded">
