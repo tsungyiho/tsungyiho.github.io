@@ -329,7 +329,6 @@ blockquote {
   font-size: 0.8em;
   font-family: courier;
   color: var(--global-theme-color);
-  user-drag: none;
   -webkit-user-drag: none;
   user-select: none;
   line-height: 1;
@@ -355,8 +354,7 @@ blockquote {
         width: 100%;
         background-position: center center;
         background-repeat: no-repeat;
-        border-radius: 10%;
-        user-drag: none;
+        border-radius: 50%;
         -webkit-user-drag: none;
         user-select: none;
       }
@@ -809,12 +807,10 @@ html.transition *:after {
       margin-left: 10px;
       margin-top: 4px;
       display: inline-block;
-      user-drag: none;
       -webkit-user-drag: none;
       user-select: none;
     }
     img{
-      user-drag: none;
       -webkit-user-drag: none;
       user-select: none;
       pointer-events: none;
