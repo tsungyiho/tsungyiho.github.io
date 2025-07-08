@@ -269,7 +269,7 @@ Intelligent Design Automation
 
 
 ### Alumni
-ZhuoYing JIANG (Research Assistant 2025) <a href="mailto:jzyalice@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
+Zhuo-Ying JIANG (Research Assistant 2025) <a href="mailto:jzyalice@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
 
 Yung-Chen TANG (Research Assistant 2025) <a href="https://sites.google.com/view/yungchentang" title="Homepage"><i class="fa-solid fa-house"></i></a> <a href="mailto:yctang@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
 
