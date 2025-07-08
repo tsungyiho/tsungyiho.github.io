@@ -8,7 +8,7 @@ nav: true
 order: 4
 ---
 ## <span class="idea-icon"></span> IDEA LAB
-Intelligent Design Automation
+<strong>I</strong>ntelligent <strong>De</strong>esign <strong>A</strong>utomation
 
 <div class="group-photo text-center mb-4">
     <img src="/assets/img/group/group photo.jpeg" alt="IDEA Group Photo" class="img-fluid rounded">
@@ -180,6 +180,7 @@ Intelligent Design Automation
             <span class="post">PhD student</span>
             <span class="period">2024 - </span>
             <span class="link">
+                <a href="https://jesselasse.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:1155229121@link.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
