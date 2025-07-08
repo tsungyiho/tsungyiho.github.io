@@ -30,8 +30,18 @@ order: 4
             <span class="post">Post Doc</span>
             <span class="period">2025 - </span>
             <span class="link">
-                <a href="https://zzhuang95.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="mailto:zhuangzhen1995@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
+                <a href="mailto:leileijin@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+            </span>
+        </div>
+    </div>
+    <div class="people card p-2">
+        <div class="photo"><img src="/assets/img/group/Jia ZhiQiang.jpg" alt="ZhiQiang JIA - Photo"></div>
+        <div class="info">
+            <h4 class="name">ZhiQiang JIA</h4>
+            <span class="post">Post Doc</span>
+            <span class="period">2025 - </span>
+            <span class="link">
+                <a href="mailto:zhiqiangjia@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
@@ -74,9 +84,6 @@ order: 4
             </span>
         </div>
     </div>
-</div>
-
-<div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/siyuan_liang.jpg" alt="Siyuan LIANG - Photo"></div>
         <div class="info">
@@ -89,9 +96,6 @@ order: 4
             </span>
         </div>
     </div>
-</div>
-
-<div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/xiaomeng_hu.png" alt="Xiaomeng HU - Photo"></div>
         <div class="info">
@@ -126,8 +130,6 @@ order: 4
             </span>
         </div>
     </div>
-</div>
-<div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/barry_xiong.jpg" alt="Chen (Barry) XIONG - Photo"></div>
         <div class="info">
@@ -139,8 +141,6 @@ order: 4
             </span>
         </div>
     </div>
-</div>
-<div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/shuo_ren.jpg" alt="Shuo REN - Photo"></div>
         <div class="info">
@@ -180,45 +180,7 @@ order: 4
 
 
 ### Alumni
-Yung-Chen TANG (Research Assistant 2025) <a href="mailto:yctang@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
-<div class="research-group clearfix">
-    <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/yung-chen_tang.jpg" alt="Yung-Chen TANG"></div>
-        <div class="info">
-            <h4 class="name">Yung-Chen TANG</h4>
-            <span class="post">Research Assistant</span>
-            <span class="period">2023 - </span>
-            <span class="link">
-                <a href="https://sites.google.com/view/yungchentang" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="mailto:yctang@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
-            </span>
-        </div>
-    </div>
-    <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/default.png" alt="Sheng-Yen CHOU"></div>
-        <div class="info">
-            <h4 class="name">Sheng-Yen CHOU</h4>
-            <span class="post">Research Assistant</span>
-            <span class="period">2022 - 2024</span>
-            <span class="link">
-                <a href="https://frankccccc.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="mailto:shengyenchou@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
-            </span>
-        </div>
-    </div>
-    <div class="people card p-2">
-        <div class="photo"><img class="card-img-top" src="/assets/img/group/lei_hsiung.jpg" alt="Lei HSIUNG"></div>
-        <div class="info">
-            <h4 class="name">Lei HSIUNG</h4>
-            <span class="post">Research Assistant</span>
-            <span class="period">2023</span>
-            <span class="link">
-                <a href="https://hsiung.cc/" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="https://scholar.google.com/citations?user=CJaZ2NcAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-                <a href="https://www.linkedin.com/in/l-hsiung/" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-                <a href="mailto:leihsiung.ray@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
-            </span>
-        </div>
-    </div>
-</div>
+Yung-Chen TANG (Research Assistant 2025) <a href="https://sites.google.com/view/yungchentang" title="Homepage"><i class="fa-solid fa-house"></i></a> <a href="mailto:yctang@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+Sheng-Yen CHOU (Research Assistant 2024) <a href="https://frankccccc.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a><a href="mailto:shengyenchou@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+Lei HSIUNG (Research Assistant 2023) <a href="https://hsiung.cc/" title="Homepage"><i class="fa-solid fa-house"></i></a> <a href="mailto:leihsiung.ray@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
 
