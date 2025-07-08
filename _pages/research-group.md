@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /research-group/
-title: Research Group
+title: IDEA LAB
 description: 
-icon: <i class="fa-solid fa-user-group"></i>
+icon: <i class="fa-solid fa-lightbulb-on"></i>
 nav: true
 order: 4
 ---
@@ -29,9 +29,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/jll.jpg" alt="LeiLei JIN - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/jll.jpg" alt="Leilei JIN - Photo"></div>
         <div class="info">
-            <h4 class="name">LeiLei JIN</h4>
+            <h4 class="name">Leilei JIN</h4>
             <span class="post">PhD</span>
             <span class="period">2025 - </span>
             <span class="link">
@@ -40,9 +40,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/Jia ZhiQiang.jpg" alt="ZhiQiang JIA - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/Jia ZhiQiang.jpg" alt="Zhiqiang JIA - Photo"></div>
         <div class="info">
-            <h4 class="name">ZhiQiang JIA</h4>
+            <h4 class="name">Zhiqiang JIA</h4>
             <span class="post">PhD</span>
             <span class="period">2025 - </span>
             <span class="link">
@@ -183,9 +183,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/XiaoMan YANG.jpg" alt="XiaoMan YANG - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/XiaoMan YANG.jpg" alt="Xiaoman YANG - Photo"></div>
         <div class="info">
-            <h4 class="name">XiaoMan YANG</h4>
+            <h4 class="name">Xiaoman YANG</h4>
             <span class="post">PhD student</span>
             <span class="period">2025 - </span>
             <span class="link">
@@ -194,9 +194,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/XuHaoyang.jpg" alt="HaoYang XU - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/XuHaoyang.jpg" alt="Haoyang XU - Photo"></div>
         <div class="info">
-            <h4 class="name">HaoYang XU</h4>
+            <h4 class="name">Haoyang XU</h4>
             <span class="post">PhD student</span>
             <span class="period">2025 - </span>
             <span class="link">
@@ -206,9 +206,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/Liu_YanF.jpg" alt="YanFang LIU - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/Liu_YanF.jpg" alt="Yanfang LIU - Photo"></div>
         <div class="info">
-            <h4 class="name">YanFang LIU</h4>
+            <h4 class="name">Yanfang LIU</h4>
             <span class="post">PhD student</span>
             <span class="period">2025 - </span>
             <span class="link">
@@ -217,9 +217,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/han_yaohui.jpg" alt="YaoHui HAN - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/han_yaohui.jpg" alt="Yaohui HAN - Photo"></div>
         <div class="info">
-            <h4 class="name">YaoHui HAN</h4>
+            <h4 class="name">Yaohui HAN</h4>
             <span class="post">PhD student</span>
             <span class="period">2025 - </span>
             <span class="link">
@@ -229,9 +229,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/Wang_chenhan.jpg" alt="ChenHan WANG - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/Wang_chenhan.jpg" alt="Chenhan WANG - Photo"></div>
         <div class="info">
-            <h4 class="name">ChenHan WANG</h4>
+            <h4 class="name">Chenhan WANG</h4>
             <span class="post">PhD student</span>
             <span class="period">2025 - </span>
             <span class="link">
@@ -241,9 +241,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/Wang_yiru.jpg" alt="YiRu WANG - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/Wang_yiru.jpg" alt="Yiru WANG - Photo"></div>
         <div class="info">
-            <h4 class="name">YiRu WANG</h4>
+            <h4 class="name">Yiru WANG</h4>
             <span class="post">PhD student</span>
             <span class="period">2025 - </span>
             <span class="link">
@@ -253,9 +253,9 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/Li_yifei.jpg" alt="YiFei LI - Photo"></div>
+        <div class="photo"><img src="/assets/img/group/Li_yifei.jpg" alt="Yifei LI - Photo"></div>
         <div class="info">
-            <h4 class="name">YiFei LI</h4>
+            <h4 class="name">Yifei LI</h4>
             <span class="post">PhD student</span>
             <span class="period">2025 - </span>
             <span class="link">
@@ -267,10 +267,10 @@ order: 4
 
 
 ### Alumni
+ZhuoYing JIANG (Research Assistant 2025) <a href="mailto:jzyalice@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
+
 Yung-Chen TANG (Research Assistant 2025) <a href="https://sites.google.com/view/yungchentang" title="Homepage"><i class="fa-solid fa-house"></i></a> <a href="mailto:yctang@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
 
 Sheng-Yen CHOU (Research Assistant 2024) <a href="https://frankccccc.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a><a href="mailto:shengyenchou@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
 
 Lei HSIUNG (Research Assistant 2023) <a href="https://hsiung.cc/" title="Homepage"><i class="fa-solid fa-house"></i></a> <a href="mailto:leihsiung.ray@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
-
-ZhuoYing JIANG (Research Assistant 2025) <a href="mailto:jzyalice@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
