@@ -24,8 +24,6 @@ order: 4
             <span class="period">2021 - <em>present</em></span>
             <span class="link">
                 <a href="https://zzhuang95.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="https://scholar.google.com/citations?user=B5ekYO8AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-                <a href="https://www.linkedin.com/in/zhen-zhuang" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
                 <a href="mailto:zhuangzhen1995@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
@@ -54,8 +52,6 @@ order: 4
             <span class="period">2022 - <em>present</em></span>
             <span class="link">
                 <a href="https://lizaitang.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="https://scholar.google.com/citations?user=nPGJNbgAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-                <a href="https://hk.linkedin.com/in/zaitang-li-489883179" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
                 <a href="mailto:ztli@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
@@ -83,7 +79,6 @@ order: 4
             <span class="period">2022 - <em>present</em></span>
             <span class="link">
                 <a href="https://syliang1999.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="https://scholar.google.com/citations?user=9Xk3i9AAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
                 <a href="mailto:siyuan.liang@link.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
@@ -99,8 +94,6 @@ order: 4
             <span class="period">2023 - <em>present</em></span>
             <span class="link">
                 <a href="https://gregxmhu.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="https://scholar.google.com/citations?user=u6pbsnkAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-                <a href="https://hk.linkedin.com/in/xiaomeng-hu-8824b3286" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
                 <a href="mailto:xmhu23@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
@@ -161,6 +154,7 @@ order: 4
             <span class="post">PhD student</span>
             <span class="period">2024 - <em>present</em></span>
             <span class="link">
+                <a href="https://jesselasse.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:1155229121@link.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>

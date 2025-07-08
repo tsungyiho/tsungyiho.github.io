@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Publication retrieved from DBLP. Full publications are available at Google Scholar.
 icon: <i class="fa-solid fa-book"></i>
-nav: true
+nav: false
 order: 3
 ---
 <!-- _pages/publications.md -->

@@ -4,7 +4,7 @@ permalink: /honors/
 title: Honors
 description: 
 icon: <i class="fa-solid fa-award"></i>
-nav: true
+nav: false
 order: 2
 ---
 
