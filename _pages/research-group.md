@@ -3,7 +3,7 @@ layout: page
 permalink: /research-group/
 title: IDEA LAB
 description: 
-icon: <i class="fa-solid fa-lightbulb-on"></i>
+icon: <img src="/assets/img/icon/idea.png" alt="IDEA LAB" style="width: 16px; height: 16px;">
 nav: true
 order: 4
 ---
@@ -224,7 +224,7 @@ order: 4
             <span class="post">PhD student</span>
             <span class="period">2025 - </span>
             <span class="link">
-                <a href="yhhan.com" title="Homepage"><i class="fa-solid fa-house"></i></a>
+                <a href="https://yhhan.com" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:yhhan.shiny@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
