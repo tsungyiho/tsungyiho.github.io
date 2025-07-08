@@ -863,11 +863,11 @@ html.transition *:after {
   vertical-align: middle;
 }
 
-// Fallback if image doesn't exist - show lightbulb icon
-.idea-icon:empty::before {
-  font-family: "Font Awesome 6 Free";
-  font-weight: 900;
-  content: "\f0eb"; /* lightbulb unicode */
-  font-size: 16px;
-  color: var(--global-theme-color);
-}
+// // Fallback if image doesn't exist - show lightbulb icon
+// .idea-icon:empty::before {
+//   font-family: "Font Awesome 6 Free";
+//   font-weight: 900;
+//   content: "\f0eb"; /* lightbulb unicode */
+//   font-size: 16px;
+//   color: var(--global-theme-color);
+// }
