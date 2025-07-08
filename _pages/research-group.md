@@ -19,22 +19,10 @@ Intelligent Design Automation
 ### Postdoctoral
 <div class="research-group clearfix">
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen ZHUANG - Photo"></div>
-        <div class="info">
-            <h4 class="name">Zhen ZHUANG</h4>
-            <span class="post">PhD</span>
-            <span class="period">2025 - </span>
-            <span class="link">
-                <a href="https://zzhuang95.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="mailto:zhuangzhen1995@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
-            </span>
-        </div>
-    </div>
-    <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/jll.jpg" alt="Leilei JIN - Photo"></div>
         <div class="info">
             <h4 class="name">Leilei JIN</h4>
-            <span class="post">PhD</span>
+            <span class="post">Post Doc</span>
             <span class="period">2025 - </span>
             <span class="link">
                 <a href="mailto:leileijin@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
@@ -45,11 +33,23 @@ Intelligent Design Automation
         <div class="photo"><img src="/assets/img/group/Jia ZhiQiang.jpg" alt="Zhiqiang JIA - Photo"></div>
         <div class="info">
             <h4 class="name">Zhiqiang JIA</h4>
-            <span class="post">PhD</span>
+            <span class="post">Post Doc</span>
             <span class="period">2025 - </span>
             <span class="link">
                 <a href="https://li-an666.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:zhiqiangjia@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+            </span>
+        </div>
+    </div>
+    <div class="people card p-2">
+        <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen ZHUANG - Photo"></div>
+        <div class="info">
+            <h4 class="name">Zhen ZHUANG</h4>
+            <span class="post">Post Doc</span>
+            <span class="period">2025 - </span>
+            <span class="link">
+                <a href="https://zzhuang95.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
+                <a href="mailto:zhuangzhen1995@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
