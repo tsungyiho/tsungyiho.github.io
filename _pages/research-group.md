@@ -64,6 +64,7 @@ order: 4
             <span class="post">PhD student</span>
             <span class="period">2022 - </span>
             <span class="link">
+                <a href="https://www.linkedin.com/in/shui-jiang-652a3220b/" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
                 <a href="mailto:sjiang22@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
