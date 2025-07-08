@@ -9,6 +9,11 @@ order: 4
 ---
 
 ## IDEA GROUP
+
+<div class="group-photo text-center mb-4">
+    <img src="/assets/img/group/group photo.jpeg" alt="IDEA Group Photo" class="img-fluid rounded">
+</div>
+
 ### Post Doctor
 <div class="research-group clearfix">
     <div class="people card p-2">
