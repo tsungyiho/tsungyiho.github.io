@@ -10,8 +10,6 @@ order: 4
 
 ## IDEA GROUP
 ### PostDoc
-
-### PhD Student (2021~)
 <div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen ZHUANG - Photo"></div>
@@ -29,7 +27,7 @@ order: 4
     </div>
 </div>
 
-### PhD Student (2022~)
+### PhD Student 
 <div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/shui_jiang.jpg" alt="Shui JIANG - Photo"></div>
@@ -86,7 +84,6 @@ order: 4
     </div>
 </div>
 
-### PhD Student (2023~)
 <div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/xiaomeng_hu.png" alt="Xiaomeng HU - Photo"></div>
@@ -125,8 +122,19 @@ order: 4
         </div>
     </div>
 </div>
-
-### PhD Student (2024~)
+<div class="research-group clearfix">
+    <div class="people card p-2">
+        <div class="photo"><img src="/assets/img/group/barry_xiong.jpg" alt="Chen (Barry) XIONG - Photo"></div>
+        <div class="info">
+            <h4 class="name">Chen (Barry) XIONG</h4>
+            <span class="post">PhD student</span>
+            <span class="period">2024 - <em>present</em></span>
+            <span class="link">
+                <a href="mailto:bxiongresearch1@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
+            </span>
+        </div>
+    </div>
+</div>
 <div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/shuo_ren.jpg" alt="Shuo REN - Photo"></div>
@@ -164,19 +172,7 @@ order: 4
         </div>
     </div>
 </div>
-<div class="research-group clearfix">
-    <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/barry_xiong.jpg" alt="Chen (Barry) XIONG - Photo"></div>
-        <div class="info">
-            <h4 class="name">Chen (Barry) XIONG</h4>
-            <span class="post">PhD student</span>
-            <span class="period">2024 - <em>present</em></span>
-            <span class="link">
-                <a href="mailto:bxiongresearch1@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
-            </span>
-        </div>
-    </div>
-</div>
+
 
 ### Research Assistant
 <div class="research-group clearfix">
