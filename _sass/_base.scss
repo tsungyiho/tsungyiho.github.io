@@ -343,9 +343,14 @@ blockquote {
     float: left;
     margin-right: 2%;
     padding: 0.4rem;
+    position: relative;
+    min-height: 120px;
+    
     .photo {
-      width: 75%;
-      margin: 0 auto;
+      width: 35%;
+      position: absolute;
+      top: 0;
+      right: 0;
       img {
         width: 100%;
         background-position: center center;
@@ -358,10 +363,10 @@ blockquote {
     }
 
     .info {
-      width: 100%;
-      margin: 0.8rem auto 0;
-      padding-left: 10px;
-      text-align: center;
+      width: 60%;
+      margin: 0;
+      padding-right: 10px;
+      text-align: left;
       font-size: 0.8rem;
       .name {
         font-weight: 600;
@@ -374,6 +379,8 @@ blockquote {
       }
       .link {
         font-size: 1.2rem;
+        margin-top: 0.5rem;
+        display: block;
       }
     }
   }
