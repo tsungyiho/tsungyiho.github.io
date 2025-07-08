@@ -8,11 +8,12 @@ nav: true
 order: 4
 ---
 
-## IDEA GROUP
 
 <div class="group-photo text-center mb-4">
     <img src="/assets/img/group/group photo.jpeg" alt="IDEA Group Photo" class="img-fluid rounded">
 </div>
+
+## GROUP MEMBERS
 
 ### Postdoctoral
 <div class="research-group clearfix">
@@ -46,7 +47,7 @@ order: 4
             <span class="post">PhD</span>
             <span class="period">2025 - </span>
             <span class="link">
-                <a href="https://tsungyiho.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
+                <a href="https://li-an666.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:zhiqiangjia@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
