@@ -9,9 +9,7 @@ order: 4
 ---
 
 ## IDEA GROUP
-### PostDoc
-
-### PhD Student (2021~)
+### Post Doctor
 <div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen ZHUANG - Photo"></div>
@@ -29,7 +27,8 @@ order: 4
     </div>
 </div>
 
-### PhD Student (2022~)
+### PhD Student 
+
 <div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/shui_jiang.jpg" alt="Shui JIANG - Photo"></div>
@@ -86,7 +85,6 @@ order: 4
     </div>
 </div>
 
-### PhD Student (2023~)
 <div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/xiaomeng_hu.png" alt="Xiaomeng HU - Photo"></div>
@@ -126,7 +124,6 @@ order: 4
     </div>
 </div>
 
-### PhD Student (2024~)
 <div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/shuo_ren.jpg" alt="Shuo REN - Photo"></div>
@@ -178,14 +175,14 @@ order: 4
     </div>
 </div>
 
-### Research Assistant
+### Alumni
 <div class="research-group clearfix">
     <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/yung-chen_tang.jpg" alt="Yung-Chen TANG"></div>
         <div class="info">
             <h4 class="name">Yung-Chen TANG</h4>
             <span class="post">Research Assistant</span>
-            <span class="period">2023 - <em>present</em></span>
+            <span class="period">2023 - 2025<em>present</em></span>
             <span class="link">
                 <a href="https://sites.google.com/view/yungchentang" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="https://scholar.google.com/citations?user=0jx-9esAAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
