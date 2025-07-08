@@ -3,7 +3,7 @@ layout: page
 permalink: /research-group/
 title: IDEA LAB
 description: 
-icon: <img src="/assets/img/icon/idea.png" alt="IDEA LAB" style="width: 16px; height: 16px;">
+icon: <span class="idea-icon"></span>
 nav: true
 order: 4
 ---

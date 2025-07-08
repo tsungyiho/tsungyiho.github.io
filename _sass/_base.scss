@@ -335,6 +335,15 @@ blockquote {
 }
 
 // Research Groups
+.idea-icon::before {
+  content: "";
+  background-image: url('/assets/img/icon/idea.png');
+  background-size: 16px 16px;
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+}
+
 .research-group {
   margin-bottom: 1.5rem; 
   .people {
