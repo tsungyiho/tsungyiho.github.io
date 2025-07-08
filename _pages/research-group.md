@@ -181,6 +181,8 @@ order: 4
 
 ### Alumni
 Yung-Chen TANG (Research Assistant 2025) <a href="https://sites.google.com/view/yungchentang" title="Homepage"><i class="fa-solid fa-house"></i></a> <a href="mailto:yctang@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+
 Sheng-Yen CHOU (Research Assistant 2024) <a href="https://frankccccc.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a><a href="mailto:shengyenchou@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+
 Lei HSIUNG (Research Assistant 2023) <a href="https://hsiung.cc/" title="Homepage"><i class="fa-solid fa-house"></i></a> <a href="mailto:leihsiung.ray@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
 

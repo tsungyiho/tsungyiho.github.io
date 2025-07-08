@@ -341,6 +341,7 @@ blockquote {
     width: 32%;
     float: left;
     margin-right: 2%;
+    margin-bottom: 1.5rem;
     padding: 0.4rem;
     position: relative;
     min-height: 120px;
@@ -367,7 +368,7 @@ blockquote {
       text-align: left;
       font-size: 0.8rem;
       .name {
-        font-weight: 600;
+        font-weight: 500;
         font-size: 1rem;
         margin-bottom: 0.5rem;
       }
