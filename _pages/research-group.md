@@ -19,12 +19,25 @@ order: 4
 ### Postdoctoral
 <div class="research-group clearfix">
     <div class="people card p-2">
+        <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen ZHUANG - Photo"></div>
+        <div class="info">
+            <h4 class="name">Zhen ZHUANG</h4>
+            <span class="post">Post Doc</span>
+            <span class="period">2025 - </span>
+            <span class="link">
+                <a href="https://zzhuang95.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
+                <a href="mailto:zhuangzhen1995@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
+            </span>
+        </div>
+    </div>
+    <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/jll.jpg" alt="Leilei JIN - Photo"></div>
         <div class="info">
             <h4 class="name">Leilei JIN</h4>
             <span class="post">Post Doc</span>
             <span class="period">2025 - </span>
             <span class="link">
+                <a href="https://leileijin.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:leileijin@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
@@ -38,18 +51,6 @@ order: 4
             <span class="link">
                 <a href="https://li-an666.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:zhiqiangjia@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
-            </span>
-        </div>
-    </div>
-    <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen ZHUANG - Photo"></div>
-        <div class="info">
-            <h4 class="name">Zhen ZHUANG</h4>
-            <span class="post">Post Doc</span>
-            <span class="period">2025 - </span>
-            <span class="link">
-                <a href="https://zzhuang95.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="mailto:zhuangzhen1995@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
@@ -216,6 +217,7 @@ order: 4
             <span class="post">PhD student</span>
             <span class="period">2025 - </span>
             <span class="link">
+                <a href="https://yf0812.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:yfliu0812@163.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
@@ -271,10 +273,10 @@ order: 4
 
 
 ### Alumni
-Zhuo-Ying JIANG (Research Assistant 2025) <a href="mailto:jzyalice@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
-
 Yung-Chen TANG (Research Assistant 2025) <a href="https://sites.google.com/view/yungchentang" title="Homepage"><i class="fa-solid fa-house"></i></a> <a href="mailto:yctang@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
 
 Sheng-Yen CHOU (Research Assistant 2024) <a href="https://frankccccc.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a> <a href="mailto:shengyenchou@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
 
 Lei HSIUNG (Research Assistant 2023) <a href="https://hsiung.cc/" title="Homepage"><i class="fa-solid fa-house"></i></a> <a href="mailto:leihsiung.ray@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
+
+Zhuo-Ying JIANG (Research Assistant 2025) <a href="mailto:jzyalice@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
