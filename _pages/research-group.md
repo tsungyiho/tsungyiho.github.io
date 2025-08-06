@@ -19,18 +19,6 @@ order: 4
 ### Postdoctoral
 <div class="research-group clearfix">
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen ZHUANG - Photo"></div>
-        <div class="info">
-            <h4 class="name">Zhen ZHUANG</h4>
-            <span class="post">Post Doc</span>
-            <span class="period">2025 - </span>
-            <span class="link">
-                <a href="https://zzhuang95.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
-                <a href="mailto:zhuangzhen1995@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
-            </span>
-        </div>
-    </div>
-    <div class="people card p-2">
         <div class="photo"><img src="/assets/img/group/jll.jpg" alt="Leilei JIN - Photo"></div>
         <div class="info">
             <h4 class="name">Leilei JIN</h4>
@@ -39,6 +27,18 @@ order: 4
             <span class="link">
                 <a href="https://leileijin.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:leileijin@cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
+            </span>
+        </div>
+    </div>
+    <div class="people card p-2">
+        <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen ZHUANG - Photo"></div>
+        <div class="info">
+            <h4 class="name">Zhen ZHUANG</h4>
+            <span class="post">Post Doc</span>
+            <span class="period">2025 - </span>
+            <span class="link">
+                <a href="https://zzhuang95.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
+                <a href="mailto:zhuangzhen1995@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </span>
         </div>
     </div>
