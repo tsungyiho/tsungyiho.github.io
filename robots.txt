@@ -1,8 +1,5 @@
----
-permalink: /robots.txt
----
 User-agent: *
 Disallow: /assets/
 
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Sitemap: https://tsungyiho.github.io/sitemap.xml
