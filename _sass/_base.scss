@@ -336,12 +336,14 @@ blockquote {
 
 // Research Groups
 .research-group {
-  margin-bottom: 1.5rem; 
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem 2%;
+  margin-bottom: 1.5rem;
+
   .people {
-    width: 32%;
-    float: left;
-    margin-right: 2%;
-    margin-bottom: 1.5rem;
+    width: 100%;
+    margin: 0;
     padding: 0.4rem;
     position: relative;
     background-color: #f7ffff;
@@ -352,10 +354,13 @@ blockquote {
       position: absolute;
       bottom: 0;
       right: 0;
+      aspect-ratio: 1;
+
       img {
         width: 100%;
-        background-position: center center;
-        background-repeat: no-repeat;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
         border-radius: 50%;
         -webkit-user-drag: none;
         user-select: none;
@@ -385,19 +390,17 @@ blockquote {
     }
   }
 
-  .people:nth-child(3n) {
-    margin-right: 0;
-  }
 }
 
 
 @media (max-width: 575px) {
   .research-group {
-      width: 80%;
-      margin: 0 auto;
+    width: 80%;
+    margin: 0 auto 1.5rem;
+    grid-template-columns: 1fr;
+
     .people {
       width: 100%;
-      margin-bottom: 1em;
       padding: 0.4rem;
     }
   }
