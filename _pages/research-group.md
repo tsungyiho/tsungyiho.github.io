@@ -280,7 +280,7 @@ order: 4
         </div>
     </div>
     <div class="people card p-2">
-        <div class="photo"><img src="/assets/img/group/yang_zixian.jpg" alt=" -Zi-Xian Yang Photo"></div>
+        <div class="photo"><img src="/assets/img/group/yang_zixian.jpg" alt="Zi-Xian Yang Photo"></div>
         <div class="info">
             <h4 class="name">Zi-Xian YANG</h4>
             <span class="post">PhD student</span>
