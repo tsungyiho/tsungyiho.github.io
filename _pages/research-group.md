@@ -34,8 +34,8 @@ order: 4
         <div class="photo"><img src="/assets/img/group/zhen_zhuang.jpg" alt="Zhen ZHUANG - Photo"></div>
         <div class="info">
             <h4 class="name">Zhen ZHUANG</h4>
-            <span class="post">Post Doc</span>
-            <span class="period">2025 - </span>
+            <span class="post">PhD 2021-2025</span>
+            <span class="period">Post Doc 2025 - </span>
             <span class="link">
                 <a href="https://zzhuang95.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:zhuangzhen1995@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
@@ -58,8 +58,8 @@ order: 4
         <div class="photo"><img src="/assets/img/group/rongliang_fu.jpg" alt="Rongliang FU - Photo"></div>
         <div class="info">
             <h4 class="name">Rongliang FU</h4>
-            <span class="post">PhD student</span>
-            <span class="period">2022 - </span>
+            <span class="post">PhD 2022-2026</span>
+            <span class="period">Post Doc 2026 - </span>
             <span class="link">
                 <a href="https://flians.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:rlfu@cse.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
@@ -70,8 +70,8 @@ order: 4
         <div class="photo"><img src="/assets/img/group/siyuan_liang.jpg" alt="Siyuan LIANG - Photo"></div>
         <div class="info">
             <h4 class="name">Siyuan LIANG</h4>
-            <span class="post">PhD student</span>
-            <span class="period">2022 - </span>
+            <span class="post">PhD 2022-2026</span>
+            <span class="period">Post Doc 2026 - </span>
             <span class="link">
                 <a href="https://syliang1999.github.io/" title="Homepage"><i class="fa-solid fa-house"></i></a>
                 <a href="mailto:siyuan.liang@link.cuhk.edu.hk" title="Email"><i class="fa-solid fa-envelope"></i></a>
